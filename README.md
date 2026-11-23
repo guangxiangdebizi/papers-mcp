@@ -71,14 +71,14 @@ npm start
     "papers": {
       "command": "node",
       "args": ["build/index.js"],
-      "cwd": "D:/Business/kuku-upgrade/papers-mcp",
+      "cwd": "/path/to/papers-mcp",
       "env": {"MCP_TRANSPORT":"stdio","OUTPUT_DIR":"./output"}
     }
   }
 }
 ```
 
-不支持 `cwd` 的客户端把 args 改为 `D:/Business/kuku-upgrade/papers-mcp/build/index.js`，并给 OUTPUT_DIR 指定绝对路径。
+不支持 `cwd` 的客户端把 args 改为 `/path/to/papers-mcp/build/index.js`，并给 OUTPUT_DIR 指定绝对路径。
 
 ### Streamable HTTP 配置
 

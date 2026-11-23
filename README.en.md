@@ -47,7 +47,7 @@ The official stable v2 SDK uses split packages: `@modelcontextprotocol/server@2.
 
 Replace cwd with the absolute clone path. Use `/` or escaped backslashes on Windows.
 ```json
-{"mcpServers":{"papers":{"command":"node","args":["build/index.js"],"cwd":"D:/Business/kuku-upgrade/papers-mcp","env":{"MCP_TRANSPORT":"stdio","OUTPUT_DIR":"./output"}}}}
+{"mcpServers":{"papers":{"command":"node","args":["build/index.js"],"cwd":"/path/to/papers-mcp","env":{"MCP_TRANSPORT":"stdio","OUTPUT_DIR":"./output"}}}}
 ```
 For clients without cwd support, use an absolute script path and OUTPUT_DIR. stdout carries only MCP messages; diagnostics go to stderr.
 
