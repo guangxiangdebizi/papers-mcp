@@ -1,0 +1,3987 @@
+{
+  "retrieved_at": "2026-11-23T11:31:42.962Z",
+  "nature": {
+    "status": "ok",
+    "data": {
+      "paper": {
+        "id": "doi:10.1038/nature14539",
+        "identifiers": {
+          "doi": "10.1038/nature14539",
+          "arxiv": null,
+          "openalex": "W2919115771",
+          "semantic_scholar": null
+        },
+        "title": "Deep learning",
+        "authors": [
+          {
+            "name": "Yann LeCun",
+            "given": "Yann",
+            "family": "LeCun",
+            "literal": null,
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Yoshua Bengio",
+            "given": "Yoshua",
+            "family": "Bengio",
+            "literal": null,
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Geoffrey Hinton",
+            "given": "Geoffrey",
+            "family": "Hinton",
+            "literal": null,
+            "id": null,
+            "orcid": null
+          }
+        ],
+        "venue": "Nature",
+        "venue_id": "https://openalex.org/S137773608",
+        "issns": [
+          "0028-0836",
+          "1476-4687"
+        ],
+        "work_type": "journal-article",
+        "published": "2015-05-27",
+        "updated": "2026-11-22T12:46:00.618207",
+        "date_kind": "publication",
+        "canonical_url": "https://doi.org/10.1038/nature14539",
+        "oa_url": "https://hal.science/hal-04206682",
+        "pdf_url": null,
+        "oa_status": "green",
+        "abstract": null,
+        "cited_by_count": 111278,
+        "citation_as_of": "2026-11-23T11:31:46.639Z",
+        "tldr": null,
+        "categories": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210114444",
+            "name": "Meta (United States)"
+          },
+          {
+            "id": "https://openalex.org/I57206974",
+            "name": "New York University"
+          },
+          {
+            "id": "https://openalex.org/I70931966",
+            "name": "Université de Montréal"
+          },
+          {
+            "id": "https://openalex.org/I1291425158",
+            "name": "Google (United States)"
+          },
+          {
+            "id": "https://openalex.org/I185261750",
+            "name": "University of Toronto"
+          }
+        ],
+        "volume": "521",
+        "issue": "7553",
+        "pages": "436-444",
+        "publisher": "Springer Science and Business Media LLC",
+        "provenance": [
+          {
+            "source": "crossref",
+            "url": "https://api.crossref.org/works/10.1038%2Fnature14539",
+            "retrieved_at": "2026-11-23T11:31:44.959Z",
+            "fields": [
+              "id",
+              "identifiers",
+              "title",
+              "authors",
+              "venue",
+              "issns",
+              "work_type",
+              "published",
+              "date_kind",
+              "canonical_url",
+              "volume",
+              "issue",
+              "pages",
+              "publisher",
+              "versions"
+            ]
+          },
+          {
+            "source": "openalex",
+            "url": "https://api.openalex.org/works/W2919115771",
+            "retrieved_at": "2026-11-23T11:31:46.639Z",
+            "fields": [
+              "id",
+              "identifiers",
+              "title",
+              "authors",
+              "venue",
+              "venue_id",
+              "issns",
+              "work_type",
+              "published",
+              "updated",
+              "date_kind",
+              "canonical_url",
+              "oa_url",
+              "oa_status",
+              "cited_by_count",
+              "citation_as_of",
+              "institutions",
+              "volume",
+              "issue",
+              "pages",
+              "versions"
+            ]
+          }
+        ],
+        "field_sources": {
+          "id": [
+            "crossref"
+          ],
+          "identifiers": [
+            "crossref"
+          ],
+          "title": [
+            "crossref",
+            "openalex"
+          ],
+          "authors": [
+            "crossref"
+          ],
+          "venue": [
+            "crossref",
+            "openalex"
+          ],
+          "issns": [
+            "crossref",
+            "openalex"
+          ],
+          "work_type": [
+            "crossref"
+          ],
+          "published": [
+            "crossref",
+            "openalex"
+          ],
+          "date_kind": [
+            "crossref",
+            "openalex"
+          ],
+          "canonical_url": [
+            "crossref",
+            "openalex"
+          ],
+          "volume": [
+            "crossref",
+            "openalex"
+          ],
+          "issue": [
+            "crossref",
+            "openalex"
+          ],
+          "pages": [
+            "crossref",
+            "openalex"
+          ],
+          "publisher": [
+            "crossref"
+          ],
+          "versions": [
+            "crossref"
+          ],
+          "venue_id": [
+            "openalex"
+          ],
+          "updated": [
+            "openalex"
+          ],
+          "oa_url": [
+            "openalex"
+          ],
+          "pdf_url": [],
+          "oa_status": [
+            "openalex"
+          ],
+          "abstract": [],
+          "cited_by_count": [
+            "openalex"
+          ],
+          "citation_as_of": [
+            "openalex"
+          ],
+          "tldr": [],
+          "categories": [],
+          "institutions": [
+            "openalex"
+          ]
+        },
+        "versions": [
+          {
+            "id": "doi:10.1038/nature14539",
+            "url": "https://doi.org/10.1038/nature14539",
+            "published": "2015-05-27",
+            "updated": null,
+            "kind": "journal-article"
+          }
+        ]
+      },
+      "read_level": "metadata",
+      "abstract": null,
+      "passages": [],
+      "missing": [
+        "abstract"
+      ],
+      "warnings": [],
+      "full_text": null
+    },
+    "warnings": [],
+    "error": null
+  },
+  "diffusion_search": {
+    "status": "partial",
+    "data": {
+      "items": [
+        {
+          "id": "arxiv:2602.07546",
+          "identifiers": {
+            "doi": null,
+            "arxiv": "2602.07546",
+            "openalex": null,
+            "semantic_scholar": null
+          },
+          "title": "Improving Variable-Length Generation in Diffusion Language Models via Length Regularization",
+          "authors": [
+            {
+              "name": "Zicong Cheng",
+              "given": null,
+              "family": null,
+              "literal": "Zicong Cheng",
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Ruixuan Jia",
+              "given": null,
+              "family": null,
+              "literal": "Ruixuan Jia",
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Jia Li",
+              "given": null,
+              "family": null,
+              "literal": "Jia Li",
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Guo-Wei Yang",
+              "given": null,
+              "family": null,
+              "literal": "Guo-Wei Yang",
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Meng-Hao Guo",
+              "given": null,
+              "family": null,
+              "literal": "Meng-Hao Guo",
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Shi-Min Hu",
+              "given": null,
+              "family": null,
+              "literal": "Shi-Min Hu",
+              "id": null,
+              "orcid": null
+            }
+          ],
+          "venue": null,
+          "venue_id": null,
+          "issns": [],
+          "work_type": "preprint",
+          "published": "2026-02-07",
+          "updated": "2026-02-07",
+          "date_kind": "submitted",
+          "canonical_url": "https://arxiv.org/abs/2602.07546v1",
+          "oa_url": "https://arxiv.org/abs/2602.07546v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.07546v1",
+          "oa_status": "green",
+          "abstract": "Diffusion Large Language Models (DLLMs) are inherently ill-suited for variable-length generation, as their inference is defined on a fixed-length canvas and implicitly assumes a known target length. When the length is unknown, as in realistic completion and infilling, naively comparing confidence across mask lengths becomes systematically biased, leading to under-generation or redundant continuations. In this paper, we show that this failure arises from an intrinsic lengthinduced bias in generation confidence estimates, leaving existing DLLMs without a robust way to determine generation length and making variablelength inference unreliable. To address this issue, we propose LR-DLLM, a length-regularized inference framework for DLLMs that treats generation length as an explicit variable and achieves reliable length determination at inference time. It decouples semantic compatibility from lengthinduced uncertainty through an explicit length regularization that corrects biased confidence estimates. Based on this, LR-DLLM enables dynamic expansion or contraction of the generation span without modifying the underlying DLLM or its training procedure. Experiments show that LRDLLM achieves 51.3% Pass@1 on HumanEvalInfilling under fully unknown lengths (+13.4% vs. DreamOn) and 51.5% average Pass@1 on four-language McEval (+14.3% vs. DreamOn).",
+          "cited_by_count": null,
+          "citation_as_of": null,
+          "tldr": null,
+          "categories": [
+            "cs.CL",
+            "cs.LG"
+          ],
+          "institutions": [],
+          "volume": null,
+          "issue": null,
+          "pages": null,
+          "publisher": null,
+          "provenance": [
+            {
+              "source": "arxiv",
+              "url": "https://arxiv.org/abs/2602.07546v1",
+              "retrieved_at": "2026-11-23T11:31:47.825Z",
+              "fields": [
+                "id",
+                "identifiers",
+                "title",
+                "authors",
+                "work_type",
+                "published",
+                "updated",
+                "date_kind",
+                "canonical_url",
+                "oa_url",
+                "pdf_url",
+                "oa_status",
+                "abstract",
+                "categories",
+                "versions"
+              ]
+            }
+          ],
+          "field_sources": {
+            "id": [
+              "arxiv"
+            ],
+            "identifiers": [
+              "arxiv"
+            ],
+            "title": [
+              "arxiv"
+            ],
+            "authors": [
+              "arxiv"
+            ],
+            "work_type": [
+              "arxiv"
+            ],
+            "published": [
+              "arxiv"
+            ],
+            "updated": [
+              "arxiv"
+            ],
+            "date_kind": [
+              "arxiv"
+            ],
+            "canonical_url": [
+              "arxiv"
+            ],
+            "oa_url": [
+              "arxiv"
+            ],
+            "pdf_url": [
+              "arxiv"
+            ],
+            "oa_status": [
+              "arxiv"
+            ],
+            "abstract": [
+              "arxiv"
+            ],
+            "categories": [
+              "arxiv"
+            ],
+            "versions": [
+              "arxiv"
+            ]
+          },
+          "versions": [
+            {
+              "id": "arxiv:2602.07546v1",
+              "url": "https://arxiv.org/abs/2602.07546v1",
+              "published": "2026-02-07",
+              "updated": "2026-02-07",
+              "kind": "preprint"
+            }
+          ]
+        },
+        {
+          "id": "doi:10.2139/ssrn.5149339",
+          "identifiers": {
+            "doi": "10.2139/ssrn.5149339",
+            "arxiv": null,
+            "openalex": null,
+            "semantic_scholar": null
+          },
+          "title": "The Mathematics of Large Language Diffusion Models versus Large Language Autoregressive Models",
+          "authors": [
+            {
+              "name": "Miquel Noguer I Alonso",
+              "given": "Miquel",
+              "family": "Noguer I Alonso",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            }
+          ],
+          "venue": null,
+          "venue_id": null,
+          "issns": [],
+          "work_type": "posted-content",
+          "published": "2025",
+          "updated": null,
+          "date_kind": "publication",
+          "canonical_url": "https://doi.org/10.2139/ssrn.5149339",
+          "oa_url": null,
+          "pdf_url": null,
+          "oa_status": null,
+          "abstract": null,
+          "cited_by_count": null,
+          "citation_as_of": null,
+          "tldr": null,
+          "categories": [],
+          "institutions": [],
+          "volume": null,
+          "issue": null,
+          "pages": null,
+          "publisher": "Elsevier BV",
+          "provenance": [
+            {
+              "source": "crossref",
+              "url": "https://api.crossref.org/works/10.2139%2Fssrn.5149339",
+              "retrieved_at": "2026-11-23T11:31:47.150Z",
+              "fields": [
+                "id",
+                "identifiers",
+                "title",
+                "authors",
+                "work_type",
+                "published",
+                "date_kind",
+                "canonical_url",
+                "publisher",
+                "versions"
+              ]
+            }
+          ],
+          "field_sources": {
+            "id": [
+              "crossref"
+            ],
+            "identifiers": [
+              "crossref"
+            ],
+            "title": [
+              "crossref"
+            ],
+            "authors": [
+              "crossref"
+            ],
+            "work_type": [
+              "crossref"
+            ],
+            "published": [
+              "crossref"
+            ],
+            "date_kind": [
+              "crossref"
+            ],
+            "canonical_url": [
+              "crossref"
+            ],
+            "publisher": [
+              "crossref"
+            ],
+            "versions": [
+              "crossref"
+            ]
+          },
+          "versions": [
+            {
+              "id": "doi:10.2139/ssrn.5149339",
+              "url": "https://doi.org/10.2139/ssrn.5149339",
+              "published": "2025",
+              "updated": null,
+              "kind": "posted-content"
+            }
+          ]
+        },
+        {
+          "id": "arxiv:2610.02193",
+          "identifiers": {
+            "doi": null,
+            "arxiv": "2610.02193",
+            "openalex": null,
+            "semantic_scholar": null
+          },
+          "title": "Hierarchical Continuous Diffusion Language Models",
+          "authors": [
+            {
+              "name": "Hui Ren",
+              "given": null,
+              "family": null,
+              "literal": "Hui Ren",
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Zihan Li",
+              "given": null,
+              "family": null,
+              "literal": "Zihan Li",
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Chang Liu",
+              "given": null,
+              "family": null,
+              "literal": "Chang Liu",
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Huidong Liu",
+              "given": null,
+              "family": null,
+              "literal": "Huidong Liu",
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Alexander Schwing",
+              "given": null,
+              "family": null,
+              "literal": "Alexander Schwing",
+              "id": null,
+              "orcid": null
+            }
+          ],
+          "venue": null,
+          "venue_id": null,
+          "issns": [],
+          "work_type": "preprint",
+          "published": "2026-10-01",
+          "updated": "2026-10-01",
+          "date_kind": "submitted",
+          "canonical_url": "https://arxiv.org/abs/2610.02193v1",
+          "oa_url": "https://arxiv.org/abs/2610.02193v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.02193v1",
+          "oa_status": "green",
+          "abstract": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when decoding in parallel, each token is sampled independently from its marginal, severing the statistical dependencies among the tokens decoded together. Continuous diffusion language models avoid this by denoising a shared continuous state, but their denoiser sees only that state, so nothing ties it to a valid token configuration until it is finally decoded. To address this, we propose Hierarchical Continuous Diffusion Language Models (HC-DLM), which couple discrete token generation with a continuous latent trajectory in a single, principled denoising process, whose training objective is derived from a variational bound on the token likelihood. In contrast to recent methods that attach continuous context to a self-contained discrete chain, HC-DLM makes the latent the only persistent generative state: tokens are read out from it at every step and feed back as a scaffold for the next latent update. On structured reasoning (Sudoku), mathematical planning (Countdown) and language modeling (LM1B), HC-DLM improves over discrete and continuous diffusion baselines at matched model size, in puzzle accuracy on Sudoku and Countdown and in generative perplexity on LM1B. Project page: https://hc-dlm.github.io/.",
+          "cited_by_count": null,
+          "citation_as_of": null,
+          "tldr": null,
+          "categories": [
+            "cs.CL",
+            "cs.AI",
+            "cs.LG"
+          ],
+          "institutions": [],
+          "volume": null,
+          "issue": null,
+          "pages": null,
+          "publisher": null,
+          "provenance": [
+            {
+              "source": "arxiv",
+              "url": "https://arxiv.org/abs/2610.02193v1",
+              "retrieved_at": "2026-11-23T11:31:47.825Z",
+              "fields": [
+                "id",
+                "identifiers",
+                "title",
+                "authors",
+                "work_type",
+                "published",
+                "updated",
+                "date_kind",
+                "canonical_url",
+                "oa_url",
+                "pdf_url",
+                "oa_status",
+                "abstract",
+                "categories",
+                "versions"
+              ]
+            }
+          ],
+          "field_sources": {
+            "id": [
+              "arxiv"
+            ],
+            "identifiers": [
+              "arxiv"
+            ],
+            "title": [
+              "arxiv"
+            ],
+            "authors": [
+              "arxiv"
+            ],
+            "work_type": [
+              "arxiv"
+            ],
+            "published": [
+              "arxiv"
+            ],
+            "updated": [
+              "arxiv"
+            ],
+            "date_kind": [
+              "arxiv"
+            ],
+            "canonical_url": [
+              "arxiv"
+            ],
+            "oa_url": [
+              "arxiv"
+            ],
+            "pdf_url": [
+              "arxiv"
+            ],
+            "oa_status": [
+              "arxiv"
+            ],
+            "abstract": [
+              "arxiv"
+            ],
+            "categories": [
+              "arxiv"
+            ],
+            "versions": [
+              "arxiv"
+            ]
+          },
+          "versions": [
+            {
+              "id": "arxiv:2610.02193v1",
+              "url": "https://arxiv.org/abs/2610.02193v1",
+              "published": "2026-10-01",
+              "updated": "2026-10-01",
+              "kind": "preprint"
+            }
+          ]
+        },
+        {
+          "id": "doi:10.36227/techrxiv.175502932.20939890/v1",
+          "identifiers": {
+            "doi": "10.36227/techrxiv.175502932.20939890/v1",
+            "arxiv": null,
+            "openalex": null,
+            "semantic_scholar": null
+          },
+          "title": "Diffusion-based Large Language Models Survey",
+          "authors": [
+            {
+              "name": "Chiung-Yi Tseng",
+              "given": "Chiung-Yi",
+              "family": "Tseng",
+              "literal": null,
+              "id": null,
+              "orcid": "https://orcid.org/0009-0001-6153-2401"
+            },
+            {
+              "name": "Danyang Zhang",
+              "given": "Danyang",
+              "family": "Zhang",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Ziqian Bi",
+              "given": "Ziqian",
+              "family": "Bi",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Junhao Song",
+              "given": "Junhao",
+              "family": "Song",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            }
+          ],
+          "venue": null,
+          "venue_id": null,
+          "issns": [],
+          "work_type": "posted-content",
+          "published": "2025-08-12",
+          "updated": null,
+          "date_kind": "publication",
+          "canonical_url": "https://doi.org/10.36227/techrxiv.175502932.20939890/v1",
+          "oa_url": null,
+          "pdf_url": null,
+          "oa_status": null,
+          "abstract": "Diffusion-based large language models (DLLMs) have emerged as a promising alternative to traditional autoregressive architectures, notably enhancing parallel generation, controllability, and robustness across multiple modalities. Originally developed from continuous diffusion methods in computer vision, recent adaptations of DLLMs have tailored discrete diffusion processes through absorbing-state kernels, latent projections, and hybrid architectures. This survey reviews recent developments in DLLMs, beginning with their foundational concepts, including DDPM, DDIM, and their early discrete adaptations, such as mask-based, continuous-embedding, and hybrid models. We organize current methods by sampling strategy, guidance type, noise schedule, and temporal conditioning, and analyzes their efficiency, output quality, and fine-tuning. The paper also highlights key advancements: autoregressive-diffusion unification through hyperschedules, adaptive correction sampling, and efficient caching mechanisms to enhance computational performance. Besides, it explores emerging applications, such as natural language tasks, multimodal generation, and reasoning-intensive domains... These demonstrate the versatility of DLLMs. Furthermore, the paper identifies critical challenges, including adaptive sampling, scalable alignment strategies, deeper integration with pretrained language models, graph-based diffusion frameworks, and robust evaluation protocols. Finally, the paper proposes directions that could define future research in diffusion-based sequence generation.",
+          "cited_by_count": null,
+          "citation_as_of": null,
+          "tldr": null,
+          "categories": [],
+          "institutions": [],
+          "volume": null,
+          "issue": null,
+          "pages": null,
+          "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "provenance": [
+            {
+              "source": "crossref",
+              "url": "https://api.crossref.org/works/10.36227%2Ftechrxiv.175502932.20939890%2Fv1",
+              "retrieved_at": "2026-11-23T11:31:47.151Z",
+              "fields": [
+                "id",
+                "identifiers",
+                "title",
+                "authors",
+                "work_type",
+                "published",
+                "date_kind",
+                "canonical_url",
+                "abstract",
+                "publisher",
+                "versions"
+              ]
+            }
+          ],
+          "field_sources": {
+            "id": [
+              "crossref"
+            ],
+            "identifiers": [
+              "crossref"
+            ],
+            "title": [
+              "crossref"
+            ],
+            "authors": [
+              "crossref"
+            ],
+            "work_type": [
+              "crossref"
+            ],
+            "published": [
+              "crossref"
+            ],
+            "date_kind": [
+              "crossref"
+            ],
+            "canonical_url": [
+              "crossref"
+            ],
+            "abstract": [
+              "crossref"
+            ],
+            "publisher": [
+              "crossref"
+            ],
+            "versions": [
+              "crossref"
+            ]
+          },
+          "versions": [
+            {
+              "id": "doi:10.36227/techrxiv.175502932.20939890/v1",
+              "url": "https://doi.org/10.36227/techrxiv.175502932.20939890/v1",
+              "published": "2025-08-12",
+              "updated": null,
+              "kind": "posted-content"
+            },
+            {
+              "id": "doi:10.36227/techrxiv.175502932.20939890/v2",
+              "url": "https://doi.org/10.36227/techrxiv.175502932.20939890/v2",
+              "published": null,
+              "updated": null,
+              "kind": "has-version"
+            }
+          ]
+        },
+        {
+          "id": "arxiv:2604.14001",
+          "identifiers": {
+            "doi": null,
+            "arxiv": "2604.14001",
+            "openalex": null,
+            "semantic_scholar": null
+          },
+          "title": "Diffusion Language Models for Speech Recognition",
+          "authors": [
+            {
+              "name": "Davyd Naveriani",
+              "given": null,
+              "family": null,
+              "literal": "Davyd Naveriani",
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Albert Zeyer",
+              "given": null,
+              "family": null,
+              "literal": "Albert Zeyer",
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Ralf Schlüter",
+              "given": null,
+              "family": null,
+              "literal": "Ralf Schlüter",
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Hermann Ney",
+              "given": null,
+              "family": null,
+              "literal": "Hermann Ney",
+              "id": null,
+              "orcid": null
+            }
+          ],
+          "venue": null,
+          "venue_id": null,
+          "issns": [],
+          "work_type": "preprint",
+          "published": "2026-04-15",
+          "updated": "2026-04-29",
+          "date_kind": "submitted",
+          "canonical_url": "https://arxiv.org/abs/2604.14001v2",
+          "oa_url": "https://arxiv.org/abs/2604.14001v2",
+          "pdf_url": "https://arxiv.org/pdf/2604.14001v2",
+          "oa_status": "green",
+          "abstract": "Diffusion language models have recently emerged as a leading alternative to standard language models, due to their ability for bidirectional attention and parallel text generation. In this work, we explore variants for their use in speech recognition. Specifically, we introduce a comprehensive guide to incorporating masked diffusion language models (MDLM) and uniform-state diffusion models (USDMs) for rescoring ASR hypotheses. Additionally, we design a new joint-decoding method that combines CTC and USDM by integrating the framewise probability distributions derived from CTC with the labelwise probability distributions computed by USDM at each decoding step, thereby generating new candidates that combine strong language knowledge from USDM and acoustic information from CTC. Our findings reveal that USDM, as well as MDLM, can significantly improve the accuracy of recognized text. We publish all our code and recipes.",
+          "cited_by_count": null,
+          "citation_as_of": null,
+          "tldr": null,
+          "categories": [
+            "cs.CL",
+            "cs.AI",
+            "cs.LG",
+            "cs.NE"
+          ],
+          "institutions": [],
+          "volume": null,
+          "issue": null,
+          "pages": null,
+          "publisher": null,
+          "provenance": [
+            {
+              "source": "arxiv",
+              "url": "https://arxiv.org/abs/2604.14001v2",
+              "retrieved_at": "2026-11-23T11:31:47.825Z",
+              "fields": [
+                "id",
+                "identifiers",
+                "title",
+                "authors",
+                "work_type",
+                "published",
+                "updated",
+                "date_kind",
+                "canonical_url",
+                "oa_url",
+                "pdf_url",
+                "oa_status",
+                "abstract",
+                "categories",
+                "versions"
+              ]
+            }
+          ],
+          "field_sources": {
+            "id": [
+              "arxiv"
+            ],
+            "identifiers": [
+              "arxiv"
+            ],
+            "title": [
+              "arxiv"
+            ],
+            "authors": [
+              "arxiv"
+            ],
+            "work_type": [
+              "arxiv"
+            ],
+            "published": [
+              "arxiv"
+            ],
+            "updated": [
+              "arxiv"
+            ],
+            "date_kind": [
+              "arxiv"
+            ],
+            "canonical_url": [
+              "arxiv"
+            ],
+            "oa_url": [
+              "arxiv"
+            ],
+            "pdf_url": [
+              "arxiv"
+            ],
+            "oa_status": [
+              "arxiv"
+            ],
+            "abstract": [
+              "arxiv"
+            ],
+            "categories": [
+              "arxiv"
+            ],
+            "versions": [
+              "arxiv"
+            ]
+          },
+          "versions": [
+            {
+              "id": "arxiv:2604.14001v2",
+              "url": "https://arxiv.org/abs/2604.14001v2",
+              "published": "2026-04-15",
+              "updated": "2026-04-29",
+              "kind": "preprint"
+            }
+          ]
+        }
+      ],
+      "query_recipe": {
+        "query": "diffusion language models",
+        "filters": {},
+        "sort": "relevance",
+        "limit": 5
+      },
+      "applied_filters": {},
+      "searched_sources": [
+        "openalex",
+        "crossref",
+        "arxiv"
+      ],
+      "sources": [
+        {
+          "name": "openalex",
+          "status": "error",
+          "reason": "openalex returned HTTP 429; Retry-After exceeds this request budget."
+        },
+        {
+          "name": "crossref",
+          "status": "ok",
+          "retrieved": 20
+        },
+        {
+          "name": "arxiv",
+          "status": "ok",
+          "retrieved": 20
+        }
+      ],
+      "truncated": true,
+      "cache_hit": false,
+      "retrieved_at": "2026-11-23T11:31:47.869Z",
+      "similar_titles": [
+        [
+          "doi:10.36227/techrxiv.175502932.20939890/v1",
+          "doi:10.36227/techrxiv.175502932.20939890/v2"
+        ],
+        [
+          "arxiv:2604.14001",
+          "doi:10.21437/interspeech.2026-2070"
+        ],
+        [
+          "doi:10.52202/075280-0730",
+          "arxiv:2305.18619"
+        ],
+        [
+          "doi:10.18653/2026.emnlp-main.1971",
+          "arxiv:2606.29215"
+        ]
+      ],
+      "warnings": [
+        "openalex: openalex returned HTTP 429; Retry-After exceeds this request budget."
+      ]
+    },
+    "warnings": [
+      "openalex: openalex returned HTTP 429; Retry-After exceeds this request budget."
+    ],
+    "error": null
+  },
+  "nature_filter": {
+    "status": "ok",
+    "data": {
+      "items": [
+        {
+          "id": "doi:10.1038/nature14539",
+          "identifiers": {
+            "doi": "10.1038/nature14539",
+            "arxiv": null,
+            "openalex": null,
+            "semantic_scholar": null
+          },
+          "title": "Deep learning",
+          "authors": [
+            {
+              "name": "Yann LeCun",
+              "given": "Yann",
+              "family": "LeCun",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Yoshua Bengio",
+              "given": "Yoshua",
+              "family": "Bengio",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Geoffrey Hinton",
+              "given": "Geoffrey",
+              "family": "Hinton",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            }
+          ],
+          "venue": "Nature",
+          "venue_id": null,
+          "issns": [
+            "0028-0836",
+            "1476-4687"
+          ],
+          "work_type": "journal-article",
+          "published": "2015-05-27",
+          "updated": null,
+          "date_kind": "publication",
+          "canonical_url": "https://doi.org/10.1038/nature14539",
+          "oa_url": null,
+          "pdf_url": null,
+          "oa_status": null,
+          "abstract": null,
+          "cited_by_count": null,
+          "citation_as_of": null,
+          "tldr": null,
+          "categories": [],
+          "institutions": [],
+          "volume": "521",
+          "issue": "7553",
+          "pages": "436-444",
+          "publisher": "Springer Science and Business Media LLC",
+          "provenance": [
+            {
+              "source": "crossref",
+              "url": "https://api.crossref.org/works/10.1038%2Fnature14539",
+              "retrieved_at": "2026-11-23T11:31:48.426Z",
+              "fields": [
+                "id",
+                "identifiers",
+                "title",
+                "authors",
+                "venue",
+                "issns",
+                "work_type",
+                "published",
+                "date_kind",
+                "canonical_url",
+                "volume",
+                "issue",
+                "pages",
+                "publisher",
+                "versions"
+              ]
+            }
+          ],
+          "field_sources": {
+            "id": [
+              "crossref"
+            ],
+            "identifiers": [
+              "crossref"
+            ],
+            "title": [
+              "crossref"
+            ],
+            "authors": [
+              "crossref"
+            ],
+            "venue": [
+              "crossref"
+            ],
+            "issns": [
+              "crossref"
+            ],
+            "work_type": [
+              "crossref"
+            ],
+            "published": [
+              "crossref"
+            ],
+            "date_kind": [
+              "crossref"
+            ],
+            "canonical_url": [
+              "crossref"
+            ],
+            "volume": [
+              "crossref"
+            ],
+            "issue": [
+              "crossref"
+            ],
+            "pages": [
+              "crossref"
+            ],
+            "publisher": [
+              "crossref"
+            ],
+            "versions": [
+              "crossref"
+            ]
+          },
+          "versions": [
+            {
+              "id": "doi:10.1038/nature14539",
+              "url": "https://doi.org/10.1038/nature14539",
+              "published": "2015-05-27",
+              "updated": null,
+              "kind": "journal-article"
+            }
+          ]
+        },
+        {
+          "id": "doi:10.1038/nature14236",
+          "identifiers": {
+            "doi": "10.1038/nature14236",
+            "arxiv": null,
+            "openalex": null,
+            "semantic_scholar": null
+          },
+          "title": "Human-level control through deep reinforcement learning",
+          "authors": [
+            {
+              "name": "Volodymyr Mnih",
+              "given": "Volodymyr",
+              "family": "Mnih",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Koray Kavukcuoglu",
+              "given": "Koray",
+              "family": "Kavukcuoglu",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "David Silver",
+              "given": "David",
+              "family": "Silver",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Andrei A. Rusu",
+              "given": "Andrei A.",
+              "family": "Rusu",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Joel Veness",
+              "given": "Joel",
+              "family": "Veness",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Marc G. Bellemare",
+              "given": "Marc G.",
+              "family": "Bellemare",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Alex Graves",
+              "given": "Alex",
+              "family": "Graves",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Martin Riedmiller",
+              "given": "Martin",
+              "family": "Riedmiller",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Andreas K. Fidjeland",
+              "given": "Andreas K.",
+              "family": "Fidjeland",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Georg Ostrovski",
+              "given": "Georg",
+              "family": "Ostrovski",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Stig Petersen",
+              "given": "Stig",
+              "family": "Petersen",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Charles Beattie",
+              "given": "Charles",
+              "family": "Beattie",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Amir Sadik",
+              "given": "Amir",
+              "family": "Sadik",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Ioannis Antonoglou",
+              "given": "Ioannis",
+              "family": "Antonoglou",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Helen King",
+              "given": "Helen",
+              "family": "King",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Dharshan Kumaran",
+              "given": "Dharshan",
+              "family": "Kumaran",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Daan Wierstra",
+              "given": "Daan",
+              "family": "Wierstra",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Shane Legg",
+              "given": "Shane",
+              "family": "Legg",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            },
+            {
+              "name": "Demis Hassabis",
+              "given": "Demis",
+              "family": "Hassabis",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            }
+          ],
+          "venue": "Nature",
+          "venue_id": null,
+          "issns": [
+            "0028-0836",
+            "1476-4687"
+          ],
+          "work_type": "journal-article",
+          "published": "2015-02-25",
+          "updated": null,
+          "date_kind": "publication",
+          "canonical_url": "https://doi.org/10.1038/nature14236",
+          "oa_url": null,
+          "pdf_url": null,
+          "oa_status": null,
+          "abstract": null,
+          "cited_by_count": null,
+          "citation_as_of": null,
+          "tldr": null,
+          "categories": [],
+          "institutions": [],
+          "volume": "518",
+          "issue": "7540",
+          "pages": "529-533",
+          "publisher": "Springer Science and Business Media LLC",
+          "provenance": [
+            {
+              "source": "crossref",
+              "url": "https://api.crossref.org/works/10.1038%2Fnature14236",
+              "retrieved_at": "2026-11-23T11:31:48.426Z",
+              "fields": [
+                "id",
+                "identifiers",
+                "title",
+                "authors",
+                "venue",
+                "issns",
+                "work_type",
+                "published",
+                "date_kind",
+                "canonical_url",
+                "volume",
+                "issue",
+                "pages",
+                "publisher",
+                "versions"
+              ]
+            }
+          ],
+          "field_sources": {
+            "id": [
+              "crossref"
+            ],
+            "identifiers": [
+              "crossref"
+            ],
+            "title": [
+              "crossref"
+            ],
+            "authors": [
+              "crossref"
+            ],
+            "venue": [
+              "crossref"
+            ],
+            "issns": [
+              "crossref"
+            ],
+            "work_type": [
+              "crossref"
+            ],
+            "published": [
+              "crossref"
+            ],
+            "date_kind": [
+              "crossref"
+            ],
+            "canonical_url": [
+              "crossref"
+            ],
+            "volume": [
+              "crossref"
+            ],
+            "issue": [
+              "crossref"
+            ],
+            "pages": [
+              "crossref"
+            ],
+            "publisher": [
+              "crossref"
+            ],
+            "versions": [
+              "crossref"
+            ]
+          },
+          "versions": [
+            {
+              "id": "doi:10.1038/nature14236",
+              "url": "https://doi.org/10.1038/nature14236",
+              "published": "2015-02-25",
+              "updated": null,
+              "kind": "journal-article"
+            }
+          ]
+        },
+        {
+          "id": "doi:10.1038/517244a",
+          "identifiers": {
+            "doi": "10.1038/517244a",
+            "arxiv": null,
+            "openalex": null,
+            "semantic_scholar": null
+          },
+          "title": "Deep mysteries",
+          "authors": [],
+          "venue": "Nature",
+          "venue_id": null,
+          "issns": [
+            "0028-0836",
+            "1476-4687"
+          ],
+          "work_type": "journal-article",
+          "published": "2015-01-14",
+          "updated": null,
+          "date_kind": "publication",
+          "canonical_url": "https://doi.org/10.1038/517244a",
+          "oa_url": null,
+          "pdf_url": null,
+          "oa_status": null,
+          "abstract": null,
+          "cited_by_count": null,
+          "citation_as_of": null,
+          "tldr": null,
+          "categories": [],
+          "institutions": [],
+          "volume": "517",
+          "issue": "7534",
+          "pages": "244-244",
+          "publisher": "Springer Science and Business Media LLC",
+          "provenance": [
+            {
+              "source": "crossref",
+              "url": "https://api.crossref.org/works/10.1038%2F517244a",
+              "retrieved_at": "2026-11-23T11:31:48.426Z",
+              "fields": [
+                "id",
+                "identifiers",
+                "title",
+                "venue",
+                "issns",
+                "work_type",
+                "published",
+                "date_kind",
+                "canonical_url",
+                "volume",
+                "issue",
+                "pages",
+                "publisher",
+                "versions"
+              ]
+            }
+          ],
+          "field_sources": {
+            "id": [
+              "crossref"
+            ],
+            "identifiers": [
+              "crossref"
+            ],
+            "title": [
+              "crossref"
+            ],
+            "venue": [
+              "crossref"
+            ],
+            "issns": [
+              "crossref"
+            ],
+            "work_type": [
+              "crossref"
+            ],
+            "published": [
+              "crossref"
+            ],
+            "date_kind": [
+              "crossref"
+            ],
+            "canonical_url": [
+              "crossref"
+            ],
+            "volume": [
+              "crossref"
+            ],
+            "issue": [
+              "crossref"
+            ],
+            "pages": [
+              "crossref"
+            ],
+            "publisher": [
+              "crossref"
+            ],
+            "versions": [
+              "crossref"
+            ]
+          },
+          "versions": [
+            {
+              "id": "doi:10.1038/517244a",
+              "url": "https://doi.org/10.1038/517244a",
+              "published": "2015-01-14",
+              "updated": null,
+              "kind": "journal-article"
+            }
+          ]
+        },
+        {
+          "id": "doi:10.1038/518141b",
+          "identifiers": {
+            "doi": "10.1038/518141b",
+            "arxiv": null,
+            "openalex": null,
+            "semantic_scholar": null
+          },
+          "title": "Deep-brain zap for addiction",
+          "authors": [],
+          "venue": "Nature",
+          "venue_id": null,
+          "issns": [
+            "0028-0836",
+            "1476-4687"
+          ],
+          "work_type": "journal-article",
+          "published": "2015-02-11",
+          "updated": null,
+          "date_kind": "publication",
+          "canonical_url": "https://doi.org/10.1038/518141b",
+          "oa_url": null,
+          "pdf_url": null,
+          "oa_status": null,
+          "abstract": null,
+          "cited_by_count": null,
+          "citation_as_of": null,
+          "tldr": null,
+          "categories": [],
+          "institutions": [],
+          "volume": "518",
+          "issue": "7538",
+          "pages": "141-141",
+          "publisher": "Springer Science and Business Media LLC",
+          "provenance": [
+            {
+              "source": "crossref",
+              "url": "https://api.crossref.org/works/10.1038%2F518141b",
+              "retrieved_at": "2026-11-23T11:31:48.426Z",
+              "fields": [
+                "id",
+                "identifiers",
+                "title",
+                "venue",
+                "issns",
+                "work_type",
+                "published",
+                "date_kind",
+                "canonical_url",
+                "volume",
+                "issue",
+                "pages",
+                "publisher",
+                "versions"
+              ]
+            }
+          ],
+          "field_sources": {
+            "id": [
+              "crossref"
+            ],
+            "identifiers": [
+              "crossref"
+            ],
+            "title": [
+              "crossref"
+            ],
+            "venue": [
+              "crossref"
+            ],
+            "issns": [
+              "crossref"
+            ],
+            "work_type": [
+              "crossref"
+            ],
+            "published": [
+              "crossref"
+            ],
+            "date_kind": [
+              "crossref"
+            ],
+            "canonical_url": [
+              "crossref"
+            ],
+            "volume": [
+              "crossref"
+            ],
+            "issue": [
+              "crossref"
+            ],
+            "pages": [
+              "crossref"
+            ],
+            "publisher": [
+              "crossref"
+            ],
+            "versions": [
+              "crossref"
+            ]
+          },
+          "versions": [
+            {
+              "id": "doi:10.1038/518141b",
+              "url": "https://doi.org/10.1038/518141b",
+              "published": "2015-02-11",
+              "updated": null,
+              "kind": "journal-article"
+            }
+          ]
+        },
+        {
+          "id": "doi:10.1038/519299a",
+          "identifiers": {
+            "doi": "10.1038/519299a",
+            "arxiv": null,
+            "openalex": null,
+            "semantic_scholar": null
+          },
+          "title": "Spotlight on deep-brain stimulation",
+          "authors": [
+            {
+              "name": "Alim Louis Benabid",
+              "given": "Alim Louis",
+              "family": "Benabid",
+              "literal": null,
+              "id": null,
+              "orcid": null
+            }
+          ],
+          "venue": "Nature",
+          "venue_id": null,
+          "issns": [
+            "0028-0836",
+            "1476-4687"
+          ],
+          "work_type": "journal-article",
+          "published": "2015-03",
+          "updated": null,
+          "date_kind": "publication",
+          "canonical_url": "https://doi.org/10.1038/519299a",
+          "oa_url": null,
+          "pdf_url": null,
+          "oa_status": null,
+          "abstract": null,
+          "cited_by_count": null,
+          "citation_as_of": null,
+          "tldr": null,
+          "categories": [],
+          "institutions": [],
+          "volume": "519",
+          "issue": "7543",
+          "pages": "299-300",
+          "publisher": "Springer Science and Business Media LLC",
+          "provenance": [
+            {
+              "source": "crossref",
+              "url": "https://api.crossref.org/works/10.1038%2F519299a",
+              "retrieved_at": "2026-11-23T11:31:48.426Z",
+              "fields": [
+                "id",
+                "identifiers",
+                "title",
+                "authors",
+                "venue",
+                "issns",
+                "work_type",
+                "published",
+                "date_kind",
+                "canonical_url",
+                "volume",
+                "issue",
+                "pages",
+                "publisher",
+                "versions"
+              ]
+            }
+          ],
+          "field_sources": {
+            "id": [
+              "crossref"
+            ],
+            "identifiers": [
+              "crossref"
+            ],
+            "title": [
+              "crossref"
+            ],
+            "authors": [
+              "crossref"
+            ],
+            "venue": [
+              "crossref"
+            ],
+            "issns": [
+              "crossref"
+            ],
+            "work_type": [
+              "crossref"
+            ],
+            "published": [
+              "crossref"
+            ],
+            "date_kind": [
+              "crossref"
+            ],
+            "canonical_url": [
+              "crossref"
+            ],
+            "volume": [
+              "crossref"
+            ],
+            "issue": [
+              "crossref"
+            ],
+            "pages": [
+              "crossref"
+            ],
+            "publisher": [
+              "crossref"
+            ],
+            "versions": [
+              "crossref"
+            ]
+          },
+          "versions": [
+            {
+              "id": "doi:10.1038/519299a",
+              "url": "https://doi.org/10.1038/519299a",
+              "published": "2015-03",
+              "updated": null,
+              "kind": "journal-article"
+            }
+          ]
+        }
+      ],
+      "query_recipe": {
+        "query": "deep learning",
+        "filters": {
+          "from": "2015-01-01",
+          "to": "2015-12-31",
+          "venue": "0028-0836"
+        },
+        "sources": [
+          "crossref"
+        ],
+        "sort": "relevance",
+        "limit": 5
+      },
+      "applied_filters": {
+        "from": "2015-01-01",
+        "to": "2015-12-31",
+        "venue": "0028-0836"
+      },
+      "searched_sources": [
+        "crossref"
+      ],
+      "sources": [
+        {
+          "name": "crossref",
+          "status": "ok",
+          "retrieved": 20
+        }
+      ],
+      "truncated": true,
+      "cache_hit": false,
+      "retrieved_at": "2026-11-23T11:31:48.428Z",
+      "similar_titles": [],
+      "warnings": []
+    },
+    "warnings": [],
+    "error": null
+  },
+  "transformer_method": {
+    "status": "ok",
+    "data": {
+      "paper": {
+        "id": "doi:10.48550/arxiv.1706.03762",
+        "identifiers": {
+          "doi": "10.48550/arxiv.1706.03762",
+          "arxiv": "1706.03762",
+          "openalex": null,
+          "semantic_scholar": "204e3073870fae3d05bcbc2f6a8e263d9b72e776"
+        },
+        "title": "Attention Is All You Need",
+        "authors": [
+          {
+            "name": "Ashish Vaswani",
+            "given": null,
+            "family": null,
+            "literal": "Ashish Vaswani",
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Noam Shazeer",
+            "given": null,
+            "family": null,
+            "literal": "Noam Shazeer",
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Niki Parmar",
+            "given": null,
+            "family": null,
+            "literal": "Niki Parmar",
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Jakob Uszkoreit",
+            "given": null,
+            "family": null,
+            "literal": "Jakob Uszkoreit",
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Llion Jones",
+            "given": null,
+            "family": null,
+            "literal": "Llion Jones",
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Aidan N. Gomez",
+            "given": null,
+            "family": null,
+            "literal": "Aidan N. Gomez",
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Lukasz Kaiser",
+            "given": null,
+            "family": null,
+            "literal": "Lukasz Kaiser",
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Illia Polosukhin",
+            "given": null,
+            "family": null,
+            "literal": "Illia Polosukhin",
+            "id": null,
+            "orcid": null
+          }
+        ],
+        "venue": "Neural Information Processing Systems",
+        "venue_id": null,
+        "issns": [],
+        "work_type": "preprint",
+        "published": "2017-06-12",
+        "updated": "2023-08-02",
+        "date_kind": "submitted",
+        "canonical_url": "https://arxiv.org/abs/1706.03762v7",
+        "oa_url": "https://arxiv.org/abs/1706.03762v7",
+        "pdf_url": "https://arxiv.org/pdf/1706.03762v7",
+        "oa_status": "green",
+        "abstract": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.",
+        "cited_by_count": 204389,
+        "citation_as_of": "2026-11-23T11:31:53.869Z",
+        "tldr": "A new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely is proposed, which generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.",
+        "categories": [
+          "cs.CL",
+          "cs.LG"
+        ],
+        "institutions": [],
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publisher": null,
+        "provenance": [
+          {
+            "source": "arxiv",
+            "url": "https://arxiv.org/abs/1706.03762v7",
+            "retrieved_at": "2026-11-23T11:31:50.100Z",
+            "fields": [
+              "id",
+              "identifiers",
+              "title",
+              "authors",
+              "work_type",
+              "published",
+              "updated",
+              "date_kind",
+              "canonical_url",
+              "oa_url",
+              "pdf_url",
+              "oa_status",
+              "abstract",
+              "categories",
+              "versions"
+            ]
+          },
+          {
+            "source": "semantic_scholar",
+            "url": "https://api.semanticscholar.org/graph/v1/paper/204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+            "retrieved_at": "2026-11-23T11:31:53.869Z",
+            "fields": [
+              "id",
+              "identifiers",
+              "title",
+              "authors",
+              "venue",
+              "work_type",
+              "published",
+              "date_kind",
+              "canonical_url",
+              "oa_url",
+              "pdf_url",
+              "oa_status",
+              "abstract",
+              "cited_by_count",
+              "citation_as_of",
+              "tldr"
+            ]
+          }
+        ],
+        "field_sources": {
+          "id": [
+            "arxiv"
+          ],
+          "identifiers": [
+            "arxiv"
+          ],
+          "title": [
+            "arxiv"
+          ],
+          "authors": [
+            "arxiv"
+          ],
+          "work_type": [
+            "arxiv"
+          ],
+          "published": [
+            "arxiv",
+            "semantic_scholar"
+          ],
+          "updated": [
+            "arxiv"
+          ],
+          "date_kind": [
+            "arxiv"
+          ],
+          "canonical_url": [
+            "arxiv"
+          ],
+          "oa_url": [
+            "arxiv"
+          ],
+          "pdf_url": [
+            "arxiv"
+          ],
+          "oa_status": [
+            "arxiv"
+          ],
+          "abstract": [
+            "arxiv",
+            "semantic_scholar"
+          ],
+          "categories": [
+            "arxiv"
+          ],
+          "versions": [
+            "arxiv"
+          ],
+          "venue": [
+            "semantic_scholar"
+          ],
+          "venue_id": [],
+          "issns": [],
+          "cited_by_count": [
+            "semantic_scholar"
+          ],
+          "citation_as_of": [
+            "semantic_scholar"
+          ],
+          "tldr": [
+            "semantic_scholar"
+          ],
+          "institutions": [],
+          "volume": [],
+          "issue": [],
+          "pages": [],
+          "publisher": []
+        },
+        "versions": [
+          {
+            "id": "arxiv:1706.03762v7",
+            "url": "https://arxiv.org/abs/1706.03762v7",
+            "published": "2017-06-12",
+            "updated": "2023-08-02",
+            "kind": "preprint"
+          }
+        ]
+      },
+      "read_level": "full_text",
+      "abstract": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.",
+      "passages": [
+        {
+          "id": "E-d27bcd23da",
+          "paper_id": "doi:10.48550/arxiv.1706.03762",
+          "quote": "Most competitive neural sequence transduction models have an encoder-decoder structure [5, 2, 35]. Here, the encoder maps an input sequence of symbol representations (x1,…,xn) to a sequence of continuous representations 𝐳=(z1,…,zn). Given 𝐳, the decoder then generates an output sequence (y1,…,ym) of symbols one element at a time. At each step the model is auto-regressive [10], consuming the previously generated symbols as additional input when generating the next.",
+          "version_url": "https://arxiv.org/html/1706.03762v7",
+          "locator": {
+            "section": "3 Model Architecture",
+            "paragraph": 11
+          },
+          "basis": "full_text"
+        },
+        {
+          "id": "E-b9d2760f14",
+          "paper_id": "doi:10.48550/arxiv.1706.03762",
+          "quote": "The Transformer follows this overall architecture using stacked self-attention and point-wise, fully connected layers for both the encoder and decoder, shown in the left and right halves of Figure 1, respectively.",
+          "version_url": "https://arxiv.org/html/1706.03762v7",
+          "locator": {
+            "section": "3 Model Architecture",
+            "paragraph": 12
+          },
+          "basis": "full_text"
+        }
+      ],
+      "missing": [],
+      "warnings": [],
+      "full_text": {
+        "version_url": "https://arxiv.org/html/1706.03762v7",
+        "page": 1,
+        "page_size": 3,
+        "total_pages": null,
+        "pages": [],
+        "has_more": false
+      }
+    },
+    "warnings": [],
+    "error": null
+  },
+  "arxiv_pdf_page": {
+    "status": "ok",
+    "data": {
+      "paper": {
+        "id": "doi:10.48550/arxiv.1706.03762",
+        "identifiers": {
+          "doi": "10.48550/arxiv.1706.03762",
+          "arxiv": "1706.03762",
+          "openalex": null,
+          "semantic_scholar": "204e3073870fae3d05bcbc2f6a8e263d9b72e776"
+        },
+        "title": "Attention Is All You Need",
+        "authors": [
+          {
+            "name": "Ashish Vaswani",
+            "given": null,
+            "family": null,
+            "literal": "Ashish Vaswani",
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Noam Shazeer",
+            "given": null,
+            "family": null,
+            "literal": "Noam Shazeer",
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Niki Parmar",
+            "given": null,
+            "family": null,
+            "literal": "Niki Parmar",
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Jakob Uszkoreit",
+            "given": null,
+            "family": null,
+            "literal": "Jakob Uszkoreit",
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Llion Jones",
+            "given": null,
+            "family": null,
+            "literal": "Llion Jones",
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Aidan N. Gomez",
+            "given": null,
+            "family": null,
+            "literal": "Aidan N. Gomez",
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Lukasz Kaiser",
+            "given": null,
+            "family": null,
+            "literal": "Lukasz Kaiser",
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Illia Polosukhin",
+            "given": null,
+            "family": null,
+            "literal": "Illia Polosukhin",
+            "id": null,
+            "orcid": null
+          }
+        ],
+        "venue": "Neural Information Processing Systems",
+        "venue_id": null,
+        "issns": [],
+        "work_type": "preprint",
+        "published": "2017-06-12",
+        "updated": "2023-08-02",
+        "date_kind": "submitted",
+        "canonical_url": "https://arxiv.org/abs/1706.03762v7",
+        "oa_url": "https://arxiv.org/abs/1706.03762v7",
+        "pdf_url": "https://arxiv.org/pdf/1706.03762v7",
+        "oa_status": "green",
+        "abstract": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.",
+        "cited_by_count": 204389,
+        "citation_as_of": "2026-11-23T11:31:58.754Z",
+        "tldr": "A new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely is proposed, which generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.",
+        "categories": [
+          "cs.CL",
+          "cs.LG"
+        ],
+        "institutions": [],
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publisher": null,
+        "provenance": [
+          {
+            "source": "arxiv",
+            "url": "https://arxiv.org/abs/1706.03762v7",
+            "retrieved_at": "2026-11-23T11:31:58.734Z",
+            "fields": [
+              "id",
+              "identifiers",
+              "title",
+              "authors",
+              "work_type",
+              "published",
+              "updated",
+              "date_kind",
+              "canonical_url",
+              "oa_url",
+              "pdf_url",
+              "oa_status",
+              "abstract",
+              "categories",
+              "versions"
+            ]
+          },
+          {
+            "source": "semantic_scholar",
+            "url": "https://api.semanticscholar.org/graph/v1/paper/204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+            "retrieved_at": "2026-11-23T11:31:58.754Z",
+            "fields": [
+              "id",
+              "identifiers",
+              "title",
+              "authors",
+              "venue",
+              "work_type",
+              "published",
+              "date_kind",
+              "canonical_url",
+              "oa_url",
+              "pdf_url",
+              "oa_status",
+              "abstract",
+              "cited_by_count",
+              "citation_as_of",
+              "tldr"
+            ]
+          }
+        ],
+        "field_sources": {
+          "id": [
+            "arxiv"
+          ],
+          "identifiers": [
+            "arxiv"
+          ],
+          "title": [
+            "arxiv"
+          ],
+          "authors": [
+            "arxiv"
+          ],
+          "work_type": [
+            "arxiv"
+          ],
+          "published": [
+            "arxiv",
+            "semantic_scholar"
+          ],
+          "updated": [
+            "arxiv"
+          ],
+          "date_kind": [
+            "arxiv"
+          ],
+          "canonical_url": [
+            "arxiv"
+          ],
+          "oa_url": [
+            "arxiv"
+          ],
+          "pdf_url": [
+            "arxiv"
+          ],
+          "oa_status": [
+            "arxiv"
+          ],
+          "abstract": [
+            "arxiv",
+            "semantic_scholar"
+          ],
+          "categories": [
+            "arxiv"
+          ],
+          "versions": [
+            "arxiv"
+          ],
+          "venue": [
+            "semantic_scholar"
+          ],
+          "venue_id": [],
+          "issns": [],
+          "cited_by_count": [
+            "semantic_scholar"
+          ],
+          "citation_as_of": [
+            "semantic_scholar"
+          ],
+          "tldr": [
+            "semantic_scholar"
+          ],
+          "institutions": [],
+          "volume": [],
+          "issue": [],
+          "pages": [],
+          "publisher": []
+        },
+        "versions": [
+          {
+            "id": "arxiv:1706.03762v7",
+            "url": "https://arxiv.org/abs/1706.03762v7",
+            "published": "2017-06-12",
+            "updated": "2023-08-02",
+            "kind": "preprint"
+          }
+        ]
+      },
+      "read_level": "full_text",
+      "abstract": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.",
+      "passages": [
+        {
+          "id": "E-c87f33bce8",
+          "paper_id": "doi:10.48550/arxiv.1706.03762",
+          "quote": "Scaled Dot-Product Attention Multi-Head Attention Figure 2: (left) Scaled Dot-Product Attention. (right) Multi-Head Attention consists of several attention layers running in parallel. of the values, where the weight assigned to each value is computed by a compatibility function of the query with the corresponding key.",
+          "version_url": "https://arxiv.org/pdf/1706.03762v7",
+          "locator": {
+            "page": 4,
+            "section": "Document",
+            "paragraph": 1
+          },
+          "basis": "full_text"
+        },
+        {
+          "id": "E-16dd3672c6",
+          "paper_id": "doi:10.48550/arxiv.1706.03762",
+          "quote": "We call our particular attention \"Scaled Dot-Product Attention\" (Figure 2). The input consists of queries and keys of dimension d k , and values of dimension d v . We compute the dot products of the query with all keys, divide each by √ d k , and apply a softmax function to obtain the weights on the values. In practice, we compute the attention function on a set of queries simultaneously, packed together into a matrix Q . The keys and values are also packed together into matrices K and V . We compute the matrix of outputs as: Attention( Q, K, V ) = softmax( QK T √ d k ) V (1) The two most commonly used attention functions are additive attention [ 2 ], and dot-product (multi- plicative) attention. Dot-product attention is identical to our algorithm, except for the scaling factor of 1 √ d k . Additive attention computes the compatibility function using a feed-forward network with a single hidden layer. While the two are similar in theoretical complexity, dot-product attention is much faster and more space-efficient in practice, since it can be implemented using highly optimized matrix multiplication code.",
+          "version_url": "https://arxiv.org/pdf/1706.03762v7",
+          "locator": {
+            "page": 4,
+            "section": "3.2.1 Scaled Dot-Product Attention",
+            "paragraph": 2
+          },
+          "basis": "full_text"
+        },
+        {
+          "id": "E-d60c5410da",
+          "paper_id": "doi:10.48550/arxiv.1706.03762",
+          "quote": "While for small values of d k the two mechanisms perform similarly, additive attention outperforms dot product attention without scaling for larger values of d k [ 3 ]. We suspect that for large values of d k , the dot products grow large in magnitude, pushing the softmax function into regions where it has extremely small gradients . To counteract this effect, we scale the dot products by 1 √ d k .",
+          "version_url": "https://arxiv.org/pdf/1706.03762v7",
+          "locator": {
+            "page": 4,
+            "section": "3.2.1 Scaled Dot-Product Attention",
+            "paragraph": 3
+          },
+          "basis": "full_text"
+        }
+      ],
+      "missing": [],
+      "warnings": [],
+      "full_text": {
+        "version_url": "https://arxiv.org/pdf/1706.03762v7",
+        "page": 4,
+        "page_size": 1,
+        "total_pages": 15,
+        "pages": [
+          {
+            "page": 4,
+            "text": "Scaled Dot-Product Attention Multi-Head Attention\nFigure 2: (left) Scaled Dot-Product Attention. (right) Multi-Head Attention consists of several\nattention layers running in parallel.\nof the values, where the weight assigned to each value is computed by a compatibility function of the\nquery with the corresponding key.\n3.2.1 Scaled Dot-Product Attention\nWe call our particular attention \"Scaled Dot-Product Attention\" (Figure 2). The input consists of\nqueries and keys of dimension d k , and values of dimension d v . We compute the dot products of the\nquery with all keys, divide each by\n√\nd k , and apply a softmax function to obtain the weights on the\nvalues.\nIn practice, we compute the attention function on a set of queries simultaneously, packed together\ninto a matrix Q . The keys and values are also packed together into matrices K and V . We compute\nthe matrix of outputs as:\nAttention( Q, K, V ) = softmax(\nQK\nT\n√\nd k\n) V (1)\nThe two most commonly used attention functions are additive attention [ 2 ], and dot-product (multi-\nplicative) attention. Dot-product attention is identical to our algorithm, except for the scaling factor\nof\n1 √\nd k\n. Additive attention computes the compatibility function using a feed-forward network with\na single hidden layer. While the two are similar in theoretical complexity, dot-product attention is\nmuch faster and more space-efficient in practice, since it can be implemented using highly optimized\nmatrix multiplication code.\nWhile for small values of d k the two mechanisms perform similarly, additive attention outperforms\ndot product attention without scaling for larger values of d k [ 3 ]. We suspect that for large values of\nd k , the dot products grow large in magnitude, pushing the softmax function into regions where it has\nextremely small gradients\n. To counteract this effect, we scale the dot products by\n1 √\nd k\n.\n3.2.2 Multi-Head Attention\nInstead of performing a single attention function with d model -dimensional keys, values and queries,\nwe found it beneficial to linearly project the queries, keys and values h times with different, learned\nlinear projections to d k , d k and d v dimensions, respectively. On each of these projected versions of\nqueries, keys and values we then perform the attention function in parallel, yielding d v -dimensional\nTo illustrate why the dot products get large, assume that the components of q and k are independent random\nvariables with mean 0 and variance 1 . Then their dot product, q · k =\nP d k\ni =1 q i k i , has mean 0 and variance d k ."
+          }
+        ],
+        "has_more": true
+      }
+    },
+    "warnings": [],
+    "error": null
+  },
+  "pdf_page": {
+    "status": "partial",
+    "data": {
+      "paper": {
+        "id": "url:50aab392bd",
+        "identifiers": {
+          "doi": null,
+          "arxiv": null,
+          "openalex": null,
+          "semantic_scholar": null
+        },
+        "title": null,
+        "authors": [],
+        "venue": null,
+        "venue_id": null,
+        "issns": [],
+        "work_type": null,
+        "published": null,
+        "updated": null,
+        "date_kind": "unknown",
+        "canonical_url": "https://papers.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+        "oa_url": "https://papers.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+        "pdf_url": "https://papers.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+        "oa_status": null,
+        "abstract": null,
+        "cited_by_count": null,
+        "citation_as_of": null,
+        "tldr": null,
+        "categories": [],
+        "institutions": [],
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publisher": null,
+        "provenance": [],
+        "field_sources": {},
+        "versions": []
+      },
+      "read_level": "full_text",
+      "abstract": null,
+      "passages": [
+        {
+          "id": "E-0d7268017c",
+          "paper_id": "url:50aab392bd",
+          "quote": "An attention function can be described as mapping a query and a set of key-value pairs to an output, where the query, keys, values, and output are all vectors. The output is computed as a weighted sum of the values, where the weight assigned to each value is computed by a compatibility function of the query with the corresponding key.",
+          "version_url": "https://papers.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+          "locator": {
+            "page": 3,
+            "section": "3.2 Attention",
+            "paragraph": 2
+          },
+          "basis": "full_text"
+        },
+        {
+          "id": "E-c3976b6be1",
+          "paper_id": "url:50aab392bd",
+          "quote": "We call our particular attention \"Scaled Dot-Product Attention\" (Figure 2). The input consists of queries and keys of dimension d k , and values of dimension d v . We compute the dot products of the",
+          "version_url": "https://papers.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+          "locator": {
+            "page": 3,
+            "section": "3.2.1 Scaled Dot-Product Attention",
+            "paragraph": 3
+          },
+          "basis": "full_text"
+        },
+        {
+          "id": "E-5a0acd60c9",
+          "paper_id": "url:50aab392bd",
+          "quote": "Figure 1: The Transformer - model architecture. wise fully connected feed-forward network. We employ a residual connection [ 10 ] around each of the two sub-layers, followed by layer normalization [ 1 ]. That is, the output of each sub-layer is LayerNorm( x + Sublayer( x )) , where Sublayer( x ) is the function implemented by the sub-layer itself. To facilitate these residual connections, all sub-layers in the model, as well as the embedding layers, produce outputs of dimension d model = 512 . Decoder: The decoder is also composed of a stack of N = 6 identical layers. In addition to the two sub-layers in each encoder layer, the decoder inserts a third sub-layer, which performs multi-head attention over the output of the encoder stack. Similar to the encoder, we employ residual connections around each of the sub-layers, followed by layer normalization. We also modify the self-attention sub-layer in the decoder stack to prevent positions from attending to subsequent positions. This masking, combined with fact that the output embeddings are offset by one position, ensures that the predictions for position i can depend only on the known outputs at positions less than i .",
+          "version_url": "https://papers.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+          "locator": {
+            "page": 3,
+            "section": "Document",
+            "paragraph": 1
+          },
+          "basis": "full_text"
+        }
+      ],
+      "missing": [
+        "title",
+        "authors",
+        "abstract"
+      ],
+      "warnings": [
+        "No verified bibliography is available for a bare PDF URL."
+      ],
+      "full_text": {
+        "version_url": "https://papers.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+        "page": 3,
+        "page_size": 1,
+        "total_pages": 11,
+        "pages": [
+          {
+            "page": 3,
+            "text": "Figure 1: The Transformer - model architecture.\nwise fully connected feed-forward network. We employ a residual connection [ 10 ] around each of\nthe two sub-layers, followed by layer normalization [ 1 ]. That is, the output of each sub-layer is\nLayerNorm( x + Sublayer( x )) , where Sublayer( x ) is the function implemented by the sub-layer\nitself. To facilitate these residual connections, all sub-layers in the model, as well as the embedding\nlayers, produce outputs of dimension d model = 512 .\nDecoder: The decoder is also composed of a stack of N = 6 identical layers. In addition to the two\nsub-layers in each encoder layer, the decoder inserts a third sub-layer, which performs multi-head\nattention over the output of the encoder stack. Similar to the encoder, we employ residual connections\naround each of the sub-layers, followed by layer normalization. We also modify the self-attention\nsub-layer in the decoder stack to prevent positions from attending to subsequent positions. This\nmasking, combined with fact that the output embeddings are offset by one position, ensures that the\npredictions for position i can depend only on the known outputs at positions less than i .\n3.2 Attention\nAn attention function can be described as mapping a query and a set of key-value pairs to an output,\nwhere the query, keys, values, and output are all vectors. The output is computed as a weighted sum\nof the values, where the weight assigned to each value is computed by a compatibility function of the\nquery with the corresponding key.\n3.2.1 Scaled Dot-Product Attention\nWe call our particular attention \"Scaled Dot-Product Attention\" (Figure 2). The input consists of\nqueries and keys of dimension d k , and values of dimension d v . We compute the dot products of the"
+          }
+        ],
+        "has_more": true
+      }
+    },
+    "warnings": [
+      "No verified bibliography is available for a bare PDF URL."
+    ],
+    "error": null
+  },
+  "references": {
+    "status": "ok",
+    "data": {
+      "paper": {
+        "id": "doi:10.1038/nature14539",
+        "identifiers": {
+          "doi": "10.1038/nature14539",
+          "arxiv": null,
+          "openalex": "W2919115771",
+          "semantic_scholar": null
+        },
+        "title": "Deep learning",
+        "authors": [
+          {
+            "name": "Yann LeCun",
+            "given": "Yann",
+            "family": "LeCun",
+            "literal": null,
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Yoshua Bengio",
+            "given": "Yoshua",
+            "family": "Bengio",
+            "literal": null,
+            "id": null,
+            "orcid": null
+          },
+          {
+            "name": "Geoffrey Hinton",
+            "given": "Geoffrey",
+            "family": "Hinton",
+            "literal": null,
+            "id": null,
+            "orcid": null
+          }
+        ],
+        "venue": "Nature",
+        "venue_id": "https://openalex.org/S137773608",
+        "issns": [
+          "0028-0836",
+          "1476-4687"
+        ],
+        "work_type": "journal-article",
+        "published": "2015-05-27",
+        "updated": "2026-11-22T12:46:00.618207",
+        "date_kind": "publication",
+        "canonical_url": "https://doi.org/10.1038/nature14539",
+        "oa_url": "https://hal.science/hal-04206682",
+        "pdf_url": null,
+        "oa_status": "green",
+        "abstract": null,
+        "cited_by_count": 111278,
+        "citation_as_of": "2026-11-23T11:31:46.639Z",
+        "tldr": null,
+        "categories": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210114444",
+            "name": "Meta (United States)"
+          },
+          {
+            "id": "https://openalex.org/I57206974",
+            "name": "New York University"
+          },
+          {
+            "id": "https://openalex.org/I70931966",
+            "name": "Université de Montréal"
+          },
+          {
+            "id": "https://openalex.org/I1291425158",
+            "name": "Google (United States)"
+          },
+          {
+            "id": "https://openalex.org/I185261750",
+            "name": "University of Toronto"
+          }
+        ],
+        "volume": "521",
+        "issue": "7553",
+        "pages": "436-444",
+        "publisher": "Springer Science and Business Media LLC",
+        "provenance": [
+          {
+            "source": "crossref",
+            "url": "https://api.crossref.org/works/10.1038%2Fnature14539",
+            "retrieved_at": "2026-11-23T11:31:44.959Z",
+            "fields": [
+              "id",
+              "identifiers",
+              "title",
+              "authors",
+              "venue",
+              "issns",
+              "work_type",
+              "published",
+              "date_kind",
+              "canonical_url",
+              "volume",
+              "issue",
+              "pages",
+              "publisher",
+              "versions"
+            ]
+          },
+          {
+            "source": "openalex",
+            "url": "https://api.openalex.org/works/W2919115771",
+            "retrieved_at": "2026-11-23T11:31:46.639Z",
+            "fields": [
+              "id",
+              "identifiers",
+              "title",
+              "authors",
+              "venue",
+              "venue_id",
+              "issns",
+              "work_type",
+              "published",
+              "updated",
+              "date_kind",
+              "canonical_url",
+              "oa_url",
+              "oa_status",
+              "cited_by_count",
+              "citation_as_of",
+              "institutions",
+              "volume",
+              "issue",
+              "pages",
+              "versions"
+            ]
+          }
+        ],
+        "field_sources": {
+          "id": [
+            "crossref"
+          ],
+          "identifiers": [
+            "crossref"
+          ],
+          "title": [
+            "crossref",
+            "openalex"
+          ],
+          "authors": [
+            "crossref"
+          ],
+          "venue": [
+            "crossref",
+            "openalex"
+          ],
+          "issns": [
+            "crossref",
+            "openalex"
+          ],
+          "work_type": [
+            "crossref"
+          ],
+          "published": [
+            "crossref",
+            "openalex"
+          ],
+          "date_kind": [
+            "crossref",
+            "openalex"
+          ],
+          "canonical_url": [
+            "crossref",
+            "openalex"
+          ],
+          "volume": [
+            "crossref",
+            "openalex"
+          ],
+          "issue": [
+            "crossref",
+            "openalex"
+          ],
+          "pages": [
+            "crossref",
+            "openalex"
+          ],
+          "publisher": [
+            "crossref"
+          ],
+          "versions": [
+            "crossref"
+          ],
+          "venue_id": [
+            "openalex"
+          ],
+          "updated": [
+            "openalex"
+          ],
+          "oa_url": [
+            "openalex"
+          ],
+          "pdf_url": [],
+          "oa_status": [
+            "openalex"
+          ],
+          "abstract": [],
+          "cited_by_count": [
+            "openalex"
+          ],
+          "citation_as_of": [
+            "openalex"
+          ],
+          "tldr": [],
+          "categories": [],
+          "institutions": [
+            "openalex"
+          ]
+        },
+        "versions": [
+          {
+            "id": "doi:10.1038/nature14539",
+            "url": "https://doi.org/10.1038/nature14539",
+            "published": "2015-05-27",
+            "updated": null,
+            "kind": "journal-article"
+          }
+        ]
+      },
+      "direction": "references",
+      "items": [
+        {
+          "id": "doi:10.7551/mitpress/11474.003.0014",
+          "identifiers": {
+            "doi": "10.7551/mitpress/11474.003.0014",
+            "arxiv": null,
+            "openalex": "W146900863",
+            "semantic_scholar": null
+          },
+          "title": "Neural Information Processing Systems",
+          "authors": [
+            {
+              "name": "Terrence J. Sejnowski",
+              "given": null,
+              "family": null,
+              "literal": "Terrence J. Sejnowski",
+              "id": null,
+              "orcid": null
+            }
+          ],
+          "venue": "The MIT Press eBooks",
+          "venue_id": "https://openalex.org/S4306463997",
+          "issns": [],
+          "work_type": "book-chapter",
+          "published": "2018-10-23",
+          "updated": "2026-11-22T12:46:00.618207",
+          "date_kind": "publication",
+          "canonical_url": "https://doi.org/10.7551/mitpress/11474.003.0014",
+          "oa_url": null,
+          "pdf_url": null,
+          "oa_status": "closed",
+          "abstract": null,
+          "cited_by_count": 3776,
+          "citation_as_of": "2026-11-23T11:32:13.145Z",
+          "tldr": null,
+          "categories": [],
+          "institutions": [],
+          "volume": null,
+          "issue": null,
+          "pages": "161-168",
+          "publisher": null,
+          "provenance": [
+            {
+              "source": "openalex",
+              "url": "https://api.openalex.org/works/W146900863",
+              "retrieved_at": "2026-11-23T11:32:13.146Z",
+              "fields": [
+                "id",
+                "identifiers",
+                "title",
+                "authors",
+                "venue",
+                "venue_id",
+                "work_type",
+                "published",
+                "updated",
+                "date_kind",
+                "canonical_url",
+                "oa_status",
+                "cited_by_count",
+                "citation_as_of",
+                "pages",
+                "versions"
+              ]
+            }
+          ],
+          "field_sources": {
+            "id": [
+              "openalex"
+            ],
+            "identifiers": [
+              "openalex"
+            ],
+            "title": [
+              "openalex"
+            ],
+            "authors": [
+              "openalex"
+            ],
+            "venue": [
+              "openalex"
+            ],
+            "venue_id": [
+              "openalex"
+            ],
+            "work_type": [
+              "openalex"
+            ],
+            "published": [
+              "openalex"
+            ],
+            "updated": [
+              "openalex"
+            ],
+            "date_kind": [
+              "openalex"
+            ],
+            "canonical_url": [
+              "openalex"
+            ],
+            "oa_status": [
+              "openalex"
+            ],
+            "cited_by_count": [
+              "openalex"
+            ],
+            "citation_as_of": [
+              "openalex"
+            ],
+            "pages": [
+              "openalex"
+            ],
+            "versions": [
+              "openalex"
+            ]
+          },
+          "versions": [
+            {
+              "id": "doi:10.7551/mitpress/11474.003.0014",
+              "url": "https://doi.org/10.7551/mitpress/11474.003.0014",
+              "published": "2018-10-23",
+              "updated": "2026-11-22T12:46:00.618207",
+              "kind": "book-chapter"
+            }
+          ]
+        },
+        {
+          "id": "openalex:W170811313",
+          "identifiers": {
+            "doi": null,
+            "arxiv": null,
+            "openalex": "W170811313",
+            "semantic_scholar": null
+          },
+          "title": "17th International Joint Conference on Artificial Intelligence 2001.",
+          "authors": [
+            {
+              "name": "Bernd Neumann",
+              "given": null,
+              "family": null,
+              "literal": "Bernd Neumann",
+              "id": "https://openalex.org/A5043426917",
+              "orcid": "https://orcid.org/0000-0002-3580-2105"
+            }
+          ],
+          "venue": "Künstliche Intell.",
+          "venue_id": "https://openalex.org/S4306517913",
+          "issns": [
+            "0933-1875",
+            "1610-1987"
+          ],
+          "work_type": "article",
+          "published": "2001-01-01",
+          "updated": "2026-11-21T10:27:49.728292",
+          "date_kind": "publication",
+          "canonical_url": "https://dblp.uni-trier.de/db/journals/ki/ki15.html#Neumann01",
+          "oa_url": null,
+          "pdf_url": null,
+          "oa_status": "closed",
+          "abstract": null,
+          "cited_by_count": 137,
+          "citation_as_of": "2026-11-23T11:32:13.594Z",
+          "tldr": null,
+          "categories": [],
+          "institutions": [],
+          "volume": "15",
+          "issue": null,
+          "pages": "61",
+          "publisher": null,
+          "provenance": [
+            {
+              "source": "openalex",
+              "url": "https://api.openalex.org/works/W170811313",
+              "retrieved_at": "2026-11-23T11:32:13.594Z",
+              "fields": [
+                "id",
+                "identifiers",
+                "title",
+                "authors",
+                "venue",
+                "venue_id",
+                "issns",
+                "work_type",
+                "published",
+                "updated",
+                "date_kind",
+                "canonical_url",
+                "oa_status",
+                "cited_by_count",
+                "citation_as_of",
+                "volume",
+                "pages",
+                "versions"
+              ]
+            }
+          ],
+          "field_sources": {
+            "id": [
+              "openalex"
+            ],
+            "identifiers": [
+              "openalex"
+            ],
+            "title": [
+              "openalex"
+            ],
+            "authors": [
+              "openalex"
+            ],
+            "venue": [
+              "openalex"
+            ],
+            "venue_id": [
+              "openalex"
+            ],
+            "issns": [
+              "openalex"
+            ],
+            "work_type": [
+              "openalex"
+            ],
+            "published": [
+              "openalex"
+            ],
+            "updated": [
+              "openalex"
+            ],
+            "date_kind": [
+              "openalex"
+            ],
+            "canonical_url": [
+              "openalex"
+            ],
+            "oa_status": [
+              "openalex"
+            ],
+            "cited_by_count": [
+              "openalex"
+            ],
+            "citation_as_of": [
+              "openalex"
+            ],
+            "volume": [
+              "openalex"
+            ],
+            "pages": [
+              "openalex"
+            ],
+            "versions": [
+              "openalex"
+            ]
+          },
+          "versions": [
+            {
+              "id": "openalex:W170811313",
+              "url": "https://dblp.uni-trier.de/db/journals/ki/ki15.html#Neumann01",
+              "published": "2001-01-01",
+              "updated": "2026-11-21T10:27:49.728292",
+              "kind": "article"
+            }
+          ]
+        },
+        {
+          "id": "openalex:W189596042",
+          "identifiers": {
+            "doi": null,
+            "arxiv": null,
+            "openalex": "W189596042",
+            "semantic_scholar": null
+          },
+          "title": "Deep Boltzmann machines",
+          "authors": [
+            {
+              "name": "Ruslan Salakhutdinov",
+              "given": null,
+              "family": null,
+              "literal": "Ruslan Salakhutdinov",
+              "id": "https://openalex.org/A5071983998",
+              "orcid": "https://orcid.org/0000-0002-3752-2756"
+            },
+            {
+              "name": "Geoffrey E. Hinton",
+              "given": null,
+              "family": null,
+              "literal": "Geoffrey E. Hinton",
+              "id": "https://openalex.org/A5108093963",
+              "orcid": null
+            }
+          ],
+          "venue": "International Conference on Artificial Intelligence and Statistics",
+          "venue_id": "https://openalex.org/S4306419146",
+          "issns": [],
+          "work_type": "conference-paper",
+          "published": "2009-04-15",
+          "updated": "2026-11-22T12:46:00.618207",
+          "date_kind": "publication",
+          "canonical_url": "http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf",
+          "oa_url": null,
+          "pdf_url": null,
+          "oa_status": "closed",
+          "abstract": "We present a new learning algorithm for Boltz-mann machines that contain many layers of hid-den variables. Data-dependent expectations are estimated using a variational approximation that tends to focus on a single mode, and data-independent expectations are approximated us-ing persistent Markov chains. The use of two quite different techniques for estimating the two types of expectation that enter into the gradient of the log-likelihood makes it practical to learn Boltzmann machines with multiple hidden lay-ers and millions of parameters. The learning can be made more efficient by using a layer-by-layer “pre-training ” phase that allows variational in-ference to be initialized with a single bottom-up pass. We present results on the MNIST and NORB datasets showing that deep Boltzmann machines learn good generative models and per-form well on handwritten digit and visual object recognition tasks. 1",
+          "cited_by_count": 2609,
+          "citation_as_of": "2026-11-23T11:32:14.473Z",
+          "tldr": null,
+          "categories": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185261750",
+              "name": "University of Toronto"
+            },
+            {
+              "id": "https://openalex.org/I185261750",
+              "name": "University of Toronto"
+            }
+          ],
+          "volume": "5",
+          "issue": null,
+          "pages": "448-455",
+          "publisher": null,
+          "provenance": [
+            {
+              "source": "openalex",
+              "url": "https://api.openalex.org/works/W189596042",
+              "retrieved_at": "2026-11-23T11:32:14.473Z",
+              "fields": [
+                "id",
+                "identifiers",
+                "title",
+                "authors",
+                "venue",
+                "venue_id",
+                "work_type",
+                "published",
+                "updated",
+                "date_kind",
+                "canonical_url",
+                "oa_status",
+                "abstract",
+                "cited_by_count",
+                "citation_as_of",
+                "institutions",
+                "volume",
+                "pages",
+                "versions"
+              ]
+            }
+          ],
+          "field_sources": {
+            "id": [
+              "openalex"
+            ],
+            "identifiers": [
+              "openalex"
+            ],
+            "title": [
+              "openalex"
+            ],
+            "authors": [
+              "openalex"
+            ],
+            "venue": [
+              "openalex"
+            ],
+            "venue_id": [
+              "openalex"
+            ],
+            "work_type": [
+              "openalex"
+            ],
+            "published": [
+              "openalex"
+            ],
+            "updated": [
+              "openalex"
+            ],
+            "date_kind": [
+              "openalex"
+            ],
+            "canonical_url": [
+              "openalex"
+            ],
+            "oa_status": [
+              "openalex"
+            ],
+            "abstract": [
+              "openalex"
+            ],
+            "cited_by_count": [
+              "openalex"
+            ],
+            "citation_as_of": [
+              "openalex"
+            ],
+            "institutions": [
+              "openalex"
+            ],
+            "volume": [
+              "openalex"
+            ],
+            "pages": [
+              "openalex"
+            ],
+            "versions": [
+              "openalex"
+            ]
+          },
+          "versions": [
+            {
+              "id": "openalex:W189596042",
+              "url": "http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf",
+              "published": "2009-04-15",
+              "updated": "2026-11-22T12:46:00.618207",
+              "kind": "conference-paper"
+            }
+          ]
+        }
+      ],
+      "source": "openalex",
+      "offset": 0,
+      "has_more": true,
+      "next_offset": 3,
+      "sources": [
+        {
+          "name": "openalex",
+          "status": "ok",
+          "retrieved": 3
+        }
+      ],
+      "warnings": [],
+      "retrieved_at": "2026-11-23T11:32:14.473Z"
+    },
+    "warnings": [],
+    "error": null
+  },
+  "comparison": {
+    "status": "partial",
+    "data": {
+      "columns": [
+        "method",
+        "data",
+        "result",
+        "limitation"
+      ],
+      "rows": [
+        {
+          "ref": "1706.03762v7",
+          "paper": {
+            "id": "arxiv:1706.03762",
+            "identifiers": {
+              "doi": null,
+              "arxiv": "1706.03762",
+              "openalex": null,
+              "semantic_scholar": null
+            },
+            "title": "Attention Is All You Need",
+            "authors": [
+              {
+                "name": "Ashish Vaswani",
+                "given": null,
+                "family": null,
+                "literal": "Ashish Vaswani",
+                "id": null,
+                "orcid": null
+              },
+              {
+                "name": "Noam Shazeer",
+                "given": null,
+                "family": null,
+                "literal": "Noam Shazeer",
+                "id": null,
+                "orcid": null
+              },
+              {
+                "name": "Niki Parmar",
+                "given": null,
+                "family": null,
+                "literal": "Niki Parmar",
+                "id": null,
+                "orcid": null
+              },
+              {
+                "name": "Jakob Uszkoreit",
+                "given": null,
+                "family": null,
+                "literal": "Jakob Uszkoreit",
+                "id": null,
+                "orcid": null
+              },
+              {
+                "name": "Llion Jones",
+                "given": null,
+                "family": null,
+                "literal": "Llion Jones",
+                "id": null,
+                "orcid": null
+              },
+              {
+                "name": "Aidan N. Gomez",
+                "given": null,
+                "family": null,
+                "literal": "Aidan N. Gomez",
+                "id": null,
+                "orcid": null
+              },
+              {
+                "name": "Lukasz Kaiser",
+                "given": null,
+                "family": null,
+                "literal": "Lukasz Kaiser",
+                "id": null,
+                "orcid": null
+              },
+              {
+                "name": "Illia Polosukhin",
+                "given": null,
+                "family": null,
+                "literal": "Illia Polosukhin",
+                "id": null,
+                "orcid": null
+              }
+            ],
+            "venue": null,
+            "venue_id": null,
+            "issns": [],
+            "work_type": "preprint",
+            "published": "2017-06-12",
+            "updated": "2023-08-02",
+            "date_kind": "submitted",
+            "canonical_url": "https://arxiv.org/abs/1706.03762v7",
+            "oa_url": "https://arxiv.org/abs/1706.03762v7",
+            "pdf_url": "https://arxiv.org/pdf/1706.03762v7",
+            "oa_status": "green",
+            "abstract": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.",
+            "cited_by_count": null,
+            "citation_as_of": null,
+            "tldr": null,
+            "categories": [
+              "cs.CL",
+              "cs.LG"
+            ],
+            "institutions": [],
+            "volume": null,
+            "issue": null,
+            "pages": null,
+            "publisher": null,
+            "provenance": [
+              {
+                "source": "arxiv",
+                "url": "https://arxiv.org/abs/1706.03762v7",
+                "retrieved_at": "2026-11-23T11:31:50.100Z",
+                "fields": [
+                  "id",
+                  "identifiers",
+                  "title",
+                  "authors",
+                  "work_type",
+                  "published",
+                  "updated",
+                  "date_kind",
+                  "canonical_url",
+                  "oa_url",
+                  "pdf_url",
+                  "oa_status",
+                  "abstract",
+                  "categories",
+                  "versions"
+                ]
+              }
+            ],
+            "field_sources": {
+              "id": [
+                "arxiv"
+              ],
+              "identifiers": [
+                "arxiv"
+              ],
+              "title": [
+                "arxiv"
+              ],
+              "authors": [
+                "arxiv"
+              ],
+              "work_type": [
+                "arxiv"
+              ],
+              "published": [
+                "arxiv"
+              ],
+              "updated": [
+                "arxiv"
+              ],
+              "date_kind": [
+                "arxiv"
+              ],
+              "canonical_url": [
+                "arxiv"
+              ],
+              "oa_url": [
+                "arxiv"
+              ],
+              "pdf_url": [
+                "arxiv"
+              ],
+              "oa_status": [
+                "arxiv"
+              ],
+              "abstract": [
+                "arxiv"
+              ],
+              "categories": [
+                "arxiv"
+              ],
+              "versions": [
+                "arxiv"
+              ]
+            },
+            "versions": [
+              {
+                "id": "arxiv:1706.03762v7",
+                "url": "https://arxiv.org/abs/1706.03762v7",
+                "published": "2017-06-12",
+                "updated": "2023-08-02",
+                "kind": "preprint"
+              }
+            ]
+          },
+          "read_level": "full_text",
+          "cells": [
+            {
+              "dimension": "method",
+              "excerpt": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transfo",
+              "evidence_ids": [
+                "E-340dac4a4a"
+              ],
+              "reason": null
+            },
+            {
+              "dimension": "data",
+              "excerpt": "This section describes the training regime for our models.",
+              "evidence_ids": [
+                "E-42bbb78741"
+              ],
+              "reason": null
+            },
+            {
+              "dimension": "result",
+              "excerpt": null,
+              "evidence_ids": [],
+              "reason": "No matching section heading was found."
+            },
+            {
+              "dimension": "limitation",
+              "excerpt": null,
+              "evidence_ids": [],
+              "reason": "No matching section heading was found."
+            }
+          ],
+          "error": null
+        },
+        {
+          "ref": "1810.04805",
+          "paper": {
+            "id": "arxiv:1810.04805",
+            "identifiers": {
+              "doi": null,
+              "arxiv": "1810.04805",
+              "openalex": null,
+              "semantic_scholar": null
+            },
+            "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+            "authors": [
+              {
+                "name": "Jacob Devlin",
+                "given": null,
+                "family": null,
+                "literal": "Jacob Devlin",
+                "id": null,
+                "orcid": null
+              },
+              {
+                "name": "Ming-Wei Chang",
+                "given": null,
+                "family": null,
+                "literal": "Ming-Wei Chang",
+                "id": null,
+                "orcid": null
+              },
+              {
+                "name": "Kenton Lee",
+                "given": null,
+                "family": null,
+                "literal": "Kenton Lee",
+                "id": null,
+                "orcid": null
+              },
+              {
+                "name": "Kristina Toutanova",
+                "given": null,
+                "family": null,
+                "literal": "Kristina Toutanova",
+                "id": null,
+                "orcid": null
+              }
+            ],
+            "venue": null,
+            "venue_id": null,
+            "issns": [],
+            "work_type": "preprint",
+            "published": "2018-10-11",
+            "updated": "2019-05-24",
+            "date_kind": "submitted",
+            "canonical_url": "https://arxiv.org/abs/1810.04805v2",
+            "oa_url": "https://arxiv.org/abs/1810.04805v2",
+            "pdf_url": "https://arxiv.org/pdf/1810.04805v2",
+            "oa_status": "green",
+            "abstract": "We introduce a new language representation model called BERT, which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models, BERT is designed to pre-train deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers. As a result, the pre-trained BERT model can be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of tasks, such as question answering and language inference, without substantial task-specific architecture modifications. BERT is conceptually simple and empirically powerful. It obtains new state-of-the-art results on eleven natural language processing tasks, including pushing the GLUE score to 80.5% (7.7% point absolute improvement), MultiNLI accuracy to 86.7% (4.6% absolute improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute improvement) and SQuAD v2.0 Test F1 to 83.1 (5.1 point absolute improvement).",
+            "cited_by_count": null,
+            "citation_as_of": null,
+            "tldr": null,
+            "categories": [
+              "cs.CL"
+            ],
+            "institutions": [],
+            "volume": null,
+            "issue": null,
+            "pages": null,
+            "publisher": null,
+            "provenance": [
+              {
+                "source": "arxiv",
+                "url": "https://arxiv.org/abs/1810.04805v2",
+                "retrieved_at": "2026-11-23T11:32:15.278Z",
+                "fields": [
+                  "id",
+                  "identifiers",
+                  "title",
+                  "authors",
+                  "work_type",
+                  "published",
+                  "updated",
+                  "date_kind",
+                  "canonical_url",
+                  "oa_url",
+                  "pdf_url",
+                  "oa_status",
+                  "abstract",
+                  "categories",
+                  "versions"
+                ]
+              }
+            ],
+            "field_sources": {
+              "id": [
+                "arxiv"
+              ],
+              "identifiers": [
+                "arxiv"
+              ],
+              "title": [
+                "arxiv"
+              ],
+              "authors": [
+                "arxiv"
+              ],
+              "work_type": [
+                "arxiv"
+              ],
+              "published": [
+                "arxiv"
+              ],
+              "updated": [
+                "arxiv"
+              ],
+              "date_kind": [
+                "arxiv"
+              ],
+              "canonical_url": [
+                "arxiv"
+              ],
+              "oa_url": [
+                "arxiv"
+              ],
+              "pdf_url": [
+                "arxiv"
+              ],
+              "oa_status": [
+                "arxiv"
+              ],
+              "abstract": [
+                "arxiv"
+              ],
+              "categories": [
+                "arxiv"
+              ],
+              "versions": [
+                "arxiv"
+              ]
+            },
+            "versions": [
+              {
+                "id": "arxiv:1810.04805v2",
+                "url": "https://arxiv.org/abs/1810.04805v2",
+                "published": "2018-10-11",
+                "updated": "2019-05-24",
+                "kind": "preprint"
+              }
+            ]
+          },
+          "read_level": "full_text",
+          "cells": [
+            {
+              "dimension": "method",
+              "excerpt": "Learning widely applicable representations of words has been an active area of research for decades, including non-neural Brown et al. (1992); Ando and Zhang (2005); Blitzer et al. (2006) and neural Mikolov et al. (2013); Pennington et al. (2014) methods. Pre-trained word embeddings are an integral part of modern NLP systems, offering significant improvements over embeddings learned from scratch Turian et al. (2010). To pre-train word embedding vectors, left-to-right language modeling objectives have been used Mnih and Hinton (2009), as well as objectives to discriminate correct from incorrect words in left and right context Mikolov et al. (2013).",
+              "evidence_ids": [
+                "E-2e7691c2d8"
+              ],
+              "reason": null
+            },
+            {
+              "dimension": "data",
+              "excerpt": "We introduce a new language representation model called BERT, which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models Peters et al. (2018a); Radford et al. (2018), BERT is designed to pre-train deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers. As a result, the pre-trained BERT model can be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of tasks, such as question answering and language inference, without substantial task-specific architecture modifications.",
+              "evidence_ids": [
+                "E-b1a504fafe"
+              ],
+              "reason": null
+            },
+            {
+              "dimension": "result",
+              "excerpt": "In this section, we present BERT fine-tuning results on 11 NLP tasks.",
+              "evidence_ids": [
+                "E-40ede5e16e"
+              ],
+              "reason": null
+            },
+            {
+              "dimension": "limitation",
+              "excerpt": null,
+              "evidence_ids": [],
+              "reason": "No matching section heading was found."
+            }
+          ],
+          "error": null
+        },
+        {
+          "ref": "10.1038/nature14539",
+          "paper": {
+            "id": "doi:10.1038/nature14539",
+            "identifiers": {
+              "doi": "10.1038/nature14539",
+              "arxiv": null,
+              "openalex": "W2919115771",
+              "semantic_scholar": null
+            },
+            "title": "Deep learning",
+            "authors": [
+              {
+                "name": "Yann LeCun",
+                "given": "Yann",
+                "family": "LeCun",
+                "literal": null,
+                "id": null,
+                "orcid": null
+              },
+              {
+                "name": "Yoshua Bengio",
+                "given": "Yoshua",
+                "family": "Bengio",
+                "literal": null,
+                "id": null,
+                "orcid": null
+              },
+              {
+                "name": "Geoffrey Hinton",
+                "given": "Geoffrey",
+                "family": "Hinton",
+                "literal": null,
+                "id": null,
+                "orcid": null
+              }
+            ],
+            "venue": "Nature",
+            "venue_id": "https://openalex.org/S137773608",
+            "issns": [
+              "0028-0836",
+              "1476-4687"
+            ],
+            "work_type": "journal-article",
+            "published": "2015-05-27",
+            "updated": "2026-11-22T12:46:00.618207",
+            "date_kind": "publication",
+            "canonical_url": "https://doi.org/10.1038/nature14539",
+            "oa_url": "https://hal.science/hal-04206682",
+            "pdf_url": null,
+            "oa_status": "green",
+            "abstract": null,
+            "cited_by_count": 111278,
+            "citation_as_of": "2026-11-23T11:31:46.639Z",
+            "tldr": null,
+            "categories": [],
+            "institutions": [
+              {
+                "id": "https://openalex.org/I4210114444",
+                "name": "Meta (United States)"
+              },
+              {
+                "id": "https://openalex.org/I57206974",
+                "name": "New York University"
+              },
+              {
+                "id": "https://openalex.org/I70931966",
+                "name": "Université de Montréal"
+              },
+              {
+                "id": "https://openalex.org/I1291425158",
+                "name": "Google (United States)"
+              },
+              {
+                "id": "https://openalex.org/I185261750",
+                "name": "University of Toronto"
+              }
+            ],
+            "volume": "521",
+            "issue": "7553",
+            "pages": "436-444",
+            "publisher": "Springer Science and Business Media LLC",
+            "provenance": [
+              {
+                "source": "crossref",
+                "url": "https://api.crossref.org/works/10.1038%2Fnature14539",
+                "retrieved_at": "2026-11-23T11:31:44.959Z",
+                "fields": [
+                  "id",
+                  "identifiers",
+                  "title",
+                  "authors",
+                  "venue",
+                  "issns",
+                  "work_type",
+                  "published",
+                  "date_kind",
+                  "canonical_url",
+                  "volume",
+                  "issue",
+                  "pages",
+                  "publisher",
+                  "versions"
+                ]
+              },
+              {
+                "source": "openalex",
+                "url": "https://api.openalex.org/works/W2919115771",
+                "retrieved_at": "2026-11-23T11:31:46.639Z",
+                "fields": [
+                  "id",
+                  "identifiers",
+                  "title",
+                  "authors",
+                  "venue",
+                  "venue_id",
+                  "issns",
+                  "work_type",
+                  "published",
+                  "updated",
+                  "date_kind",
+                  "canonical_url",
+                  "oa_url",
+                  "oa_status",
+                  "cited_by_count",
+                  "citation_as_of",
+                  "institutions",
+                  "volume",
+                  "issue",
+                  "pages",
+                  "versions"
+                ]
+              }
+            ],
+            "field_sources": {
+              "id": [
+                "crossref"
+              ],
+              "identifiers": [
+                "crossref"
+              ],
+              "title": [
+                "crossref",
+                "openalex"
+              ],
+              "authors": [
+                "crossref"
+              ],
+              "venue": [
+                "crossref",
+                "openalex"
+              ],
+              "issns": [
+                "crossref",
+                "openalex"
+              ],
+              "work_type": [
+                "crossref"
+              ],
+              "published": [
+                "crossref",
+                "openalex"
+              ],
+              "date_kind": [
+                "crossref",
+                "openalex"
+              ],
+              "canonical_url": [
+                "crossref",
+                "openalex"
+              ],
+              "volume": [
+                "crossref",
+                "openalex"
+              ],
+              "issue": [
+                "crossref",
+                "openalex"
+              ],
+              "pages": [
+                "crossref",
+                "openalex"
+              ],
+              "publisher": [
+                "crossref"
+              ],
+              "versions": [
+                "crossref"
+              ],
+              "venue_id": [
+                "openalex"
+              ],
+              "updated": [
+                "openalex"
+              ],
+              "oa_url": [
+                "openalex"
+              ],
+              "pdf_url": [],
+              "oa_status": [
+                "openalex"
+              ],
+              "abstract": [],
+              "cited_by_count": [
+                "openalex"
+              ],
+              "citation_as_of": [
+                "openalex"
+              ],
+              "tldr": [],
+              "categories": [],
+              "institutions": [
+                "openalex"
+              ]
+            },
+            "versions": [
+              {
+                "id": "doi:10.1038/nature14539",
+                "url": "https://doi.org/10.1038/nature14539",
+                "published": "2015-05-27",
+                "updated": null,
+                "kind": "journal-article"
+              }
+            ]
+          },
+          "read_level": "metadata",
+          "cells": [
+            {
+              "dimension": "method",
+              "excerpt": null,
+              "evidence_ids": [],
+              "reason": "Full-text section unavailable; no fact inferred from metadata or abstract."
+            },
+            {
+              "dimension": "data",
+              "excerpt": null,
+              "evidence_ids": [],
+              "reason": "Full-text section unavailable; no fact inferred from metadata or abstract."
+            },
+            {
+              "dimension": "result",
+              "excerpt": null,
+              "evidence_ids": [],
+              "reason": "Full-text section unavailable; no fact inferred from metadata or abstract."
+            },
+            {
+              "dimension": "limitation",
+              "excerpt": null,
+              "evidence_ids": [],
+              "reason": "Full-text section unavailable; no fact inferred from metadata or abstract."
+            }
+          ],
+          "error": null
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E-340dac4a4a",
+          "paper_id": "arxiv:1706.03762",
+          "quote": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transfo",
+          "version_url": "https://arxiv.org/html/1706.03762v7",
+          "locator": {
+            "section": "Attention Is All You Need",
+            "paragraph": 2
+          },
+          "basis": "full_text"
+        },
+        {
+          "id": "E-42bbb78741",
+          "paper_id": "arxiv:1706.03762",
+          "quote": "This section describes the training regime for our models.",
+          "version_url": "https://arxiv.org/html/1706.03762v7",
+          "locator": {
+            "section": "5 Training",
+            "paragraph": 41
+          },
+          "basis": "full_text"
+        },
+        {
+          "id": "E-2e7691c2d8",
+          "paper_id": "arxiv:1810.04805",
+          "quote": "Learning widely applicable representations of words has been an active area of research for decades, including non-neural Brown et al. (1992); Ando and Zhang (2005); Blitzer et al. (2006) and neural Mikolov et al. (2013); Pennington et al. (2014) methods. Pre-trained word embeddings are an integral part of modern NLP systems, offering significant improvements over embeddings learned from scratch Turian et al. (2010). To pre-train word embedding vectors, left-to-right language modeling objectives have been used Mnih and Hinton (2009), as well as objectives to discriminate correct from incorrect words in left and right context Mikolov et al. (2013).",
+          "version_url": "https://arxiv.org/html/1810.04805v2",
+          "locator": {
+            "section": "2.1 Unsupervised Feature-based Approaches",
+            "paragraph": 11
+          },
+          "basis": "full_text"
+        },
+        {
+          "id": "E-b1a504fafe",
+          "paper_id": "arxiv:1810.04805",
+          "quote": "We introduce a new language representation model called BERT, which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models Peters et al. (2018a); Radford et al. (2018), BERT is designed to pre-train deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers. As a result, the pre-trained BERT model can be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of tasks, such as question answering and language inference, without substantial task-specific architecture modifications.",
+          "version_url": "https://arxiv.org/html/1810.04805v2",
+          "locator": {
+            "section": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+            "paragraph": 1
+          },
+          "basis": "full_text"
+        },
+        {
+          "id": "E-40ede5e16e",
+          "paper_id": "arxiv:1810.04805",
+          "quote": "In this section, we present BERT fine-tuning results on 11 NLP tasks.",
+          "version_url": "https://arxiv.org/html/1810.04805v2",
+          "locator": {
+            "section": "4 Experiments",
+            "paragraph": 34
+          },
+          "basis": "full_text"
+        }
+      ],
+      "markdown": "| Paper | method | data | result | limitation |\n| --- | --- | --- | --- | --- |\n| Attention Is All You Need | The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transfo [E-340dac4a4a] | This section describes the training regime for our models. [E-42bbb78741] | 未找到 / Not found: No matching section heading was found. | 未找到 / Not found: No matching section heading was found. |\n| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | Learning widely applicable representations of words has been an active area of research for decades, including non-neural Brown et al. (1992); Ando and Zhang (2005); Blitzer et al. (2006) and neural Mikolov et al. (2013); Pennington et al. (2014) methods. Pre-trained word embeddings are an integral part of modern NLP systems, offering significant improvements over embeddings learned from scratch Turian et al. (2010). To pre-train word embedding vectors, left-to-right language modeling objectives have been used Mnih and Hinton (2009), as well as objectives to discriminate correct from incorrect words in left and right context Mikolov et al. (2013). [E-2e7691c2d8] | We introduce a new language representation model called BERT, which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models Peters et al. (2018a); Radford et al. (2018), BERT is designed to pre-train deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers. As a result, the pre-trained BERT model can be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of tasks, such as question answering and language inference, without substantial task-specific architecture modifications. [E-b1a504fafe] | In this section, we present BERT fine-tuning results on 11 NLP tasks. [E-40ede5e16e] | 未找到 / Not found: No matching section heading was found. |\n| Deep learning | 未找到 / Not found: Full-text section unavailable; no fact inferred from metadata or abstract. | 未找到 / Not found: Full-text section unavailable; no fact inferred from metadata or abstract. | 未找到 / Not found: Full-text section unavailable; no fact inferred from metadata or abstract. | 未找到 / Not found: Full-text section unavailable; no fact inferred from metadata or abstract. |",
+      "warnings": [
+        "10.1038/nature14539: https://hal.science/hal-04206682: no readable article body.",
+        "10.1038/nature14539: https://hal.science/hal-04206682/document: web exceeded the request deadline."
+      ]
+    },
+    "warnings": [
+      "10.1038/nature14539: https://hal.science/hal-04206682: no readable article body.",
+      "10.1038/nature14539: https://hal.science/hal-04206682/document: web exceeded the request deadline."
+    ],
+    "error": null
+  },
+  "exports": {
+    "bibtex": {
+      "status": "partial",
+      "data": {
+        "format": "bibtex",
+        "filename": "citations.bib",
+        "mime": "application/x-bibtex",
+        "text": "@article{LeCun2015_8e415d7119,\n\tauthor = {LeCun, Yann and Bengio, Yoshua and Hinton, Geoffrey},\n\tjournal = {Nature},\n\tdoi = {10.1038/nature14539},\n\tnumber = {7553},\n\tyear = {2015},\n\tmonth = {may 27},\n\tpages = {436--444},\n\tpublisher = {{Springer Science and Business Media LLC}},\n\ttitle = {Deep learning},\n\turl = {https://doi.org/10.1038/nature14539},\n\tvolume = {521},\n}\n@unpublished{Ashish2017_a1a0262a54,\n\tauthor = {{Ashish Vaswani} and {Noam Shazeer} and {Niki Parmar} and {Jakob Uszkoreit} and {Llion Jones} and {Aidan N. Gomez} and {Lukasz Kaiser} and {Illia Polosukhin}},\n\tyear = {2017},\n\tmonth = {jun 12},\n\tnote = {arXiv:1706.03762},\n\ttitle = {Attention {Is} {All} {You} {Need}},\n\turl = {https://arxiv.org/abs/1706.03762v7},\n\thowpublished = {https://arxiv.org/abs/1706.03762v7},\n}\n\n",
+        "artifact": {
+          "path": "output/<random-id>/citations.bib",
+          "bytes": 788,
+          "sha256": "048340354248dc559cc4ddf5ea8d686c98fb74047cd3aa9808e319119849dfda"
+        },
+        "exported_ids": [
+          "doi:10.1038/nature14539",
+          "arxiv:1706.03762"
+        ],
+        "skipped": [
+          {
+            "ref": "10.1038/nature14539",
+            "reason": "DUPLICATE: already included in this export."
+          },
+          {
+            "ref": "not-an-id",
+            "reason": "Use a DOI, arXiv ID, OpenAlex W ID, s2: ID or public HTTPS article/PDF URL."
+          }
+        ],
+        "warnings": []
+      },
+      "warnings": [],
+      "error": null
+    },
+    "ris": {
+      "status": "partial",
+      "data": {
+        "format": "ris",
+        "filename": "citations.ris",
+        "mime": "application/x-research-info-systems",
+        "text": "TY  - JOUR\nAU  - LeCun, Yann\nAU  - Bengio, Yoshua\nAU  - Hinton, Geoffrey\nDA  - 2015/5/27/\nPY  - 2015\nDO  - 10.1038/nature14539\nID  - paper_8e415d7119\nIS  - 7553\nSP  - 436-444\nT2  - Nature\nTI  - Deep learning\nUR  - https://doi.org/10.1038/nature14539\nVL  - 521\nER  - \nTY  - MANSCPT\nAU  - Ashish Vaswani\nAU  - Noam Shazeer\nAU  - Niki Parmar\nAU  - Jakob Uszkoreit\nAU  - Llion Jones\nAU  - Aidan N. Gomez\nAU  - Lukasz Kaiser\nAU  - Illia Polosukhin\nDA  - 2017/6/12/\nPY  - 2017\nID  - paper_a1a0262a54\nN1  - arXiv:1706.03762\nPB  - arXiv\nTI  - Attention Is All You Need\nUR  - https://arxiv.org/abs/1706.03762v7\nER  - ",
+        "artifact": {
+          "path": "output/<random-id>/citations.ris",
+          "bytes": 608,
+          "sha256": "3a7f634731cda9ee529eaa58b2e4696269157b9c6ec9093f14eca12ecba6c4e4"
+        },
+        "exported_ids": [
+          "doi:10.1038/nature14539",
+          "arxiv:1706.03762"
+        ],
+        "skipped": [
+          {
+            "ref": "10.1038/nature14539",
+            "reason": "DUPLICATE: already included in this export."
+          },
+          {
+            "ref": "not-an-id",
+            "reason": "Use a DOI, arXiv ID, OpenAlex W ID, s2: ID or public HTTPS article/PDF URL."
+          }
+        ],
+        "warnings": []
+      },
+      "warnings": [],
+      "error": null
+    },
+    "csl_json": {
+      "status": "partial",
+      "data": {
+        "format": "csl_json",
+        "filename": "citations.json",
+        "mime": "application/vnd.citationstyles.csl+json",
+        "text": "[\n  {\n    \"id\": \"paper_8e415d7119\",\n    \"citation-key\": \"LeCun2015_8e415d7119\",\n    \"type\": \"article-journal\",\n    \"title\": \"Deep learning\",\n    \"author\": [\n      {\n        \"family\": \"LeCun\",\n        \"given\": \"Yann\"\n      },\n      {\n        \"family\": \"Bengio\",\n        \"given\": \"Yoshua\"\n      },\n      {\n        \"family\": \"Hinton\",\n        \"given\": \"Geoffrey\"\n      }\n    ],\n    \"issued\": {\n      \"date-parts\": [\n        [\n          2015,\n          5,\n          27\n        ]\n      ]\n    },\n    \"container-title\": \"Nature\",\n    \"DOI\": \"10.1038/nature14539\",\n    \"URL\": \"https://doi.org/10.1038/nature14539\",\n    \"volume\": \"521\",\n    \"issue\": \"7553\",\n    \"page\": \"436-444\",\n    \"publisher\": \"Springer Science and Business Media LLC\"\n  },\n  {\n    \"id\": \"paper_a1a0262a54\",\n    \"citation-key\": \"Ashish2017_a1a0262a54\",\n    \"type\": \"manuscript\",\n    \"title\": \"Attention Is All You Need\",\n    \"author\": [\n      {\n        \"literal\": \"Ashish Vaswani\"\n      },\n      {\n        \"literal\": \"Noam Shazeer\"\n      },\n      {\n        \"literal\": \"Niki Parmar\"\n      },\n      {\n        \"literal\": \"Jakob Uszkoreit\"\n      },\n      {\n        \"literal\": \"Llion Jones\"\n      },\n      {\n        \"literal\": \"Aidan N. Gomez\"\n      },\n      {\n        \"literal\": \"Lukasz Kaiser\"\n      },\n      {\n        \"literal\": \"Illia Polosukhin\"\n      }\n    ],\n    \"issued\": {\n      \"date-parts\": [\n        [\n          2017,\n          6,\n          12\n        ]\n      ]\n    },\n    \"URL\": \"https://arxiv.org/abs/1706.03762v7\",\n    \"archive\": \"arXiv\",\n    \"archive_location\": \"1706.03762\",\n    \"note\": \"arXiv:1706.03762\"\n  }\n]\n",
+        "artifact": {
+          "path": "output/<random-id>/citations.json",
+          "bytes": 1586,
+          "sha256": "8e09ad64a3eb2584abceb2ff2637ce8f4bde3edf4a6ee36d66a6c7cb8d300b5c"
+        },
+        "exported_ids": [
+          "doi:10.1038/nature14539",
+          "arxiv:1706.03762"
+        ],
+        "skipped": [
+          {
+            "ref": "10.1038/nature14539",
+            "reason": "DUPLICATE: already included in this export."
+          },
+          {
+            "ref": "not-an-id",
+            "reason": "Use a DOI, arXiv ID, OpenAlex W ID, s2: ID or public HTTPS article/PDF URL."
+          }
+        ],
+        "warnings": []
+      },
+      "warnings": [],
+      "error": null
+    },
+    "gbt7714": {
+      "status": "partial",
+      "data": {
+        "format": "gbt7714",
+        "filename": "citations.txt",
+        "mime": "text/plain; charset=utf-8",
+        "text": "[1] LECUN Y, BENGIO Y, HINTON G. Deep learning[J]. Nature, 2015, 521(7553): 436-444. DOI:10.1038/nature14539.\n\n[2] Ashish Vaswani, Noam Shazeer, Niki Parmar, et al. Attention Is All You Need[EB/OL]. arXiv:1706.03762. (2017-06-12)[2026-11-23]. https://arxiv.org/abs/1706.03762v7.\n",
+        "artifact": {
+          "path": "output/<random-id>/citations.txt",
+          "bytes": 279,
+          "sha256": "7f74b60fc94abbf1ae3d79547f1ae2acd9f74e88ea8fb8862b0cb4fa2bd85147"
+        },
+        "exported_ids": [
+          "doi:10.1038/nature14539",
+          "arxiv:1706.03762"
+        ],
+        "skipped": [
+          {
+            "ref": "10.1038/nature14539",
+            "reason": "DUPLICATE: already included in this export."
+          },
+          {
+            "ref": "not-an-id",
+            "reason": "Use a DOI, arXiv ID, OpenAlex W ID, s2: ID or public HTTPS article/PDF URL."
+          }
+        ],
+        "warnings": []
+      },
+      "warnings": [],
+      "error": null
+    }
+  }
+}

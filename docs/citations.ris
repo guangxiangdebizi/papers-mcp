@@ -1,0 +1,32 @@
+TY  - JOUR
+AU  - LeCun, Yann
+AU  - Bengio, Yoshua
+AU  - Hinton, Geoffrey
+DA  - 2015/5/27/
+PY  - 2015
+DO  - 10.1038/nature14539
+ID  - paper_8e415d7119
+IS  - 7553
+SP  - 436-444
+T2  - Nature
+TI  - Deep learning
+UR  - https://doi.org/10.1038/nature14539
+VL  - 521
+ER  - 
+TY  - MANSCPT
+AU  - Ashish Vaswani
+AU  - Noam Shazeer
+AU  - Niki Parmar
+AU  - Jakob Uszkoreit
+AU  - Llion Jones
+AU  - Aidan N. Gomez
+AU  - Lukasz Kaiser
+AU  - Illia Polosukhin
+DA  - 2017/6/12/
+PY  - 2017
+ID  - paper_a1a0262a54
+N1  - arXiv:1706.03762
+PB  - arXiv
+TI  - Attention Is All You Need
+UR  - https://arxiv.org/abs/1706.03762v7
+ER  - 
